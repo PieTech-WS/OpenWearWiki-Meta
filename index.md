@@ -14,7 +14,7 @@
 | [XRING T1](/ProductWiki/platforms/XRING/XRING-T1.html) |
 |----|
 
-### BestecBPc 恒玄
+### Bestechnic 恒玄
 #### BES27xx
 | [BES2700BP](/ProductWiki/platforms/Bestechnic/BES2700BP.html) |
 |----|
