@@ -1,0 +1,224 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OW1",
+  "name": {
+    "zh_CN": "OPPO Watch",
+    "en_US": "OPPO Watch"
+  },
+  "notice": {
+    "title": "OPPO首款智能手表",
+    "text": "OPPO Watch 双曲面柔性屏 eSIM"
+  },
+  "releaseDate": "2020-03-06",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "精钢版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 精钢版.png"
+      ],
+      "imagesText": "../res/OPPO Watch 1.webp",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.91\" AMOLED",
+            "402×476",
+            "双曲面柔性屏"
+          ],
+          "detail": "1.91英寸AMOLED双曲面柔性屏 402×476"
+        },
+        "battery": {
+          "specPreview": [
+            "智能40小时 长续航21天",
+            "Watch VOOC闪充"
+          ],
+          "detail": "智能模式40小时 长续航模式21天 Watch VOOC闪充"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS+北斗",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS+北斗 NFC eSIM(独立号码/一号双终端 三大运营商)"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "睡眠",
+            "经期管理"
+          ],
+          "detail": "心率监测 睡眠监测 经期管理 久坐提醒"
+        },
+        "sensors": {
+          "specPreview": [
+            "PPG心率",
+            "加速度"
+          ],
+          "detail": "CISS和GoMore专业AI运动算法"
+        },
+        "sports": {
+          "specPreview": [
+            "多种运动模式"
+          ],
+          "detail": "GPS+北斗定位 AI运动算法"
+        },
+        "body": {
+          "specPreview": [
+            "316L不锈钢",
+            "意大利小牛皮",
+            "约45.5g"
+          ],
+          "detail": "316L不锈钢 意大利小牛皮表带 约45.5g"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "46mm版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 46mm 铝合金+氟橡胶.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "body": {
+          "specPreview": [
+            "铝合金",
+            "氟橡胶",
+            "约40g"
+          ],
+          "detail": "铝合金 氟橡胶表带 约40g 5ATM"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "41mm版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 ECG 版 含 ECG 心电.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "waterproof": {
+          "specPreview": [
+            "3ATM"
+          ],
+          "detail": "3ATM防水"
+        },
+        "body": {
+          "specPreview": [
+            "约29.7g"
+          ],
+          "detail": "约29.7g 3ATM"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "ECG版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 41mm 铝合金.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "health": {
+          "specPreview": [
+            "ECG心电"
+          ],
+          "detail": "增加ECG心电监测"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "故宫新禧版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 故宫新禧版 故宫 IP 联名.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "body": {
+          "detail": "故宫联名设计"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "英雄联盟限定版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 英雄联盟限定版 阿卡亚定制.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "body": {
+          "detail": "英雄联盟联名设计"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "EVA限定版",
+      "model": "OW1",
+      "images": [
+        "../res/Watch 初代 EVA限定版 明日香定制.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "body": {
+          "detail": "EVA联名设计"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+"
+        ]
+      }
+    }
+  ]
+}

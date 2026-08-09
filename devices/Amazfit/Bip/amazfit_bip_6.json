@@ -1,0 +1,108 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Bip 6",
+  "name": {
+    "zh_CN": "Amazfit Bip 6",
+    "en_US": "Amazfit Bip 6"
+  },
+  "notice": {
+    "title": "入门方形手表",
+    "text": "Bip 6 ZPS芯片"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/equipment/20250210/e376e534bf476638d6fad06e1d4cbef4.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Bip 6",
+      "images": [
+        "https://img-cdn.zepp.com/equipment/20250210/e376e534bf476638d6fad06e1d4cbef4.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_4",
+          "display": [
+            "Zepp OS 4"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "4.2.0"
+          ],
+          "detail": "Zepp OS 4.2.0 API 4.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "390×450 PX",
+            "方形AMOLED"
+          ],
+          "detail": "方形AMOLED 390x450"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠",
+            "压力"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "1个按键"
+        },
+        "screenShape": "方形",
+        "screenResolution": {
+          "width": 390,
+          "height": 450
+        },
+        "watchFacePreviewResolution": {
+          "width": 266,
+          "height": 307
+        },
+        "physicalButtons": 1,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

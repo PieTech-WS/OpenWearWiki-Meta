@@ -1,0 +1,111 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit T-Rex 3",
+  "name": {
+    "zh_CN": "Amazfit T-Rex 3",
+    "en_US": "Amazfit T-Rex 3"
+  },
+  "notice": {
+    "title": "户外运动手表",
+    "text": "T-Rex 3 ZPS芯片"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/equipment/20240816/e66474e6feba94e6a91e14f4eecd013c.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "T-Rex 3",
+      "images": [
+        "https://img-cdn.zepp.com/equipment/20240816/e66474e6feba94e6a91e14f4eecd013c.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_4",
+          "display": [
+            "Zepp OS 4"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "4.3.0"
+          ],
+          "detail": "Zepp OS 4.3.0 API 4.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "480×480 PX",
+            "圆形AMOLED"
+          ],
+          "detail": "圆形AMOLED 480x480"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约20天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "10ATM"
+          ],
+          "detail": "10ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "不锈钢",
+            "MIL-STD-810H"
+          ],
+          "detail": "4个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 480,
+          "height": 480
+        },
+        "watchFacePreviewResolution": {
+          "width": 324,
+          "height": 324
+        },
+        "physicalButtons": 4,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

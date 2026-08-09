@@ -1,0 +1,73 @@
+{
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 8",
+    "en_US": "Xiaomi Smart Band 8"
+  },
+  "actions": [
+  {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb8/"
+  }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2239B1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304181447_fff5c19e16988b91042cfddba800fc19.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304181447_840e3ece2f7588b851ae8d4482c3fdac.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "miwear.watch.m66",
+        "os": "Xiaomi HyperOS（RTOS）",
+        "platform": "Apollo 4 Blue Lite",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "190mAh",
+        "connectivity": "Bluetooth 5.1",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "M2240B1",
+      "images": [
+       "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304181447_fff5c19e16988b91042cfddba800fc19.png",
+       "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202304181447_840e3ece2f7588b851ae8d4482c3fdac.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.m66nfc",
+        "os": "Xiaomi HyperOS（RTOS）",
+        "platform": "Apollo 4 Blue Lite",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "190mAh",
+        "connectivity": "Bluetooth 5.1",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "迪士尼100周年定制版",
+      "model": "M2240B1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202306081829_272794263cd78c893998cbe325b86c29.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.m66dsn",
+        "os": "Xiaomi HyperOS（RTOS）",
+        "platform": "Apollo 4 Blue Lite",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "190mAh",
+        "connectivity": "Bluetooth 5.1",
+        "atm": "5ATM"
+      }
+    }
+  ],
+  "SchemaVersion": 1
+}

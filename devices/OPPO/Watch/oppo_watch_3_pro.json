@@ -1,0 +1,129 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW181",
+  "name": {
+    "zh_CN": "OPPO Watch 3 Pro",
+    "en_US": "OPPO Watch 3 Pro"
+  },
+  "notice": {
+    "title": "旗舰方形手表",
+    "text": "Watch 3 Pro LTPO屏幕 eSIM 手表车钥匙"
+  },
+  "releaseDate": "2022",
+  "sku": [
+    {
+      "sku_name": "氟橡胶表带款",
+      "model": "OWW181",
+      "images": [
+        "../res/Watch 3 Pro 氟橡胶表带款.png"
+      ],
+      "imagesText": "../res/Watch 3 Pro 氟橡胶表带款.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "LTPO AMOLED"
+          ],
+          "detail": "LTPO屏幕 AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "UDDE双擎混动续航",
+            "磁吸充电"
+          ],
+          "detail": "UDDE双擎混动续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC eSIM独立通话"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "心率监测 血氧监测"
+        },
+        "sensors": {
+          "specPreview": [
+            "PPG心率",
+            "血氧传感器"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "手表车钥匙功能"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "冰川灰",
+      "model": "OWW181",
+      "images": [
+        "../res/Watch 3 Pro 冰川灰.png"
+      ],
+      "imagesText": "../res/watch 3 Pro 冰川灰.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "真皮表带款",
+      "model": "OWW181",
+      "images": [
+        "../res/Watch 3 Pro 真皮表带款.png"
+      ],
+      "imagesText": "../res/Watch 3 Pro 真皮表带款.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

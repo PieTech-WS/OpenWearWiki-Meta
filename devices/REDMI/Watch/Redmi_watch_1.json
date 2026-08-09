@@ -1,0 +1,33 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Watch 1",
+    "en_US": "Redmi Watch 1"
+  },
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "READMIWT01",
+      "images": [
+        "resource/rw1/典雅黑.png",
+        "resource/rw1/水墨蓝.png",
+        "resource/rw1/象牙白.png"
+      ],
+      "imagesText": "resource/rw1/典雅黑.png\nresource/rw1/水墨蓝.png\nresource/rw1/象牙白.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "mijia.watch.v1",
+        "os": {
+        "display": ["Proprietary OS"]
+        },
+        "platform": "Dialog DA 14695",
+        "storage": ["2MB RAM", "32MB ROM"],
+        "display": ["320*320 PX", "1.4\"IPS LCD"],
+        "battery": "230mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

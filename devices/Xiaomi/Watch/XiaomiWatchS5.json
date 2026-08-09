@@ -1,0 +1,44 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Watch S5 46mm",
+    "en_US": "Xiaomi Watch S5 46mm"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/245/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2530W1",
+      "images": [
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003251.99877042.png",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003258.43092316.png",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003269.20367859.png",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003282.82747916.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "platform": "bestechnic/bes2800bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.72\" AMOLED"]
+      }
+    },
+    {
+      "sku_name": "eSIM版",
+      "model": "M2517W1",
+      "images": [
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003276.88276666.png"
+      ]
+    }
+  ]
+}

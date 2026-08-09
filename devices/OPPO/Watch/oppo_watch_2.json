@@ -1,0 +1,170 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW151",
+  "name": {
+    "zh_CN": "OPPO Watch 2",
+    "en_US": "OPPO Watch 2"
+  },
+  "notice": {
+    "title": "方形智能手表",
+    "text": "Watch 2 光绘表盘 专业级心脏健康管理"
+  },
+  "releaseDate": "2021-07-27",
+  "sku": [
+    {
+      "sku_name": "46mm eSIM版",
+      "model": "OWW151",
+      "images": [
+        "../res/Watch 2 46mm 蓝牙 氟橡胶 星蓝.png"
+      ],
+      "imagesText": "../res/Watch 2 46mm 蓝牙 氟橡胶 星蓝.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch 2.0"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.75\" AMOLED",
+            "3D双曲无界屏"
+          ],
+          "detail": "1.75英寸3D AMOLED双曲无界屏"
+        },
+        "battery": {
+          "specPreview": [
+            "UDDE双擎混动续航"
+          ],
+          "detail": "UDDE双擎混动续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙5.0 WiFi(802.11b/g/n) GPS(GPS/Glonass/北斗/Galileo) NFC eSIM"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "专业级心脏健康管理 光绘表盘"
+        },
+        "sensors": {
+          "specPreview": [
+            "PPG心率"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "46mm 铝合金"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "46mm 蓝牙版",
+      "model": "OWW151",
+      "images": [
+        "../res/Watch 2 46mm 蓝牙 氟橡胶 星蓝.png"
+      ],
+      "imagesText": "../res/Watch 2 46mm 蓝牙 氟橡胶 星蓝.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "Wi-Fi",
+            "GPS"
+          ],
+          "detail": "无eSIM"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "42mm eSIM版",
+      "model": "OWW151",
+      "images": [
+        "../res/Watch 2 42mm esim 氟橡胶 曜黑.png"
+      ],
+      "imagesText": "../res/Watch 2 42mm esim 氟橡胶 曜黑.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "42mm 蓝牙版",
+      "model": "OWW151",
+      "images": [
+        "../res/Watch 2 42mm 蓝牙 氟橡胶 曜黑.png"
+      ],
+      "imagesText": "../res/Watch 2 42mm 蓝牙 氟橡胶 曜黑.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "柯南限定版",
+      "model": "OWW151",
+      "images": [
+        "../res/Watch 2 柯南限定版 柯南 IP 限定表带.png"
+      ],
+      "imagesText": "../res/Watch 2 柯南限定版 柯南 IP 限定表带.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

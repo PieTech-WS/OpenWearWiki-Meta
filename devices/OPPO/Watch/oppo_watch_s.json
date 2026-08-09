@@ -1,0 +1,138 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWS1",
+  "name": {
+    "zh_CN": "OPPO Watch S",
+    "en_US": "OPPO Watch S"
+  },
+  "notice": {
+    "title": "超薄健康手表",
+    "text": "Watch S 仅8.9mm/35g 3000尼特 AMOLED"
+  },
+  "releaseDate": "2025",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "律动银",
+      "model": "OWS1",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20250930/6dab352f15b2693e82701cc66b45cb18-797983237.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "AMOLED",
+            "3000尼特峰值"
+          ],
+          "detail": "AMOLED 峰值亮度3000尼特"
+        },
+        "battery": {
+          "specPreview": [
+            "常规7天 极限10天",
+            "充电10分钟用一天"
+          ],
+          "detail": "常规续航7天 极限10天 快充10分钟用1天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "IP68"
+          ],
+          "detail": "IP68防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS",
+            "NFC"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS(L1+L5) NFC公交门禁"
+        },
+        "health": {
+          "specPreview": [
+            "ECG心电",
+            "心率",
+            "血氧",
+            "腕温"
+          ],
+          "detail": "16通道血氧 8通道心率 ECG心电电极 腕温传感器 60秒快速体检13项指标"
+        },
+        "sensors": {
+          "specPreview": [
+            "16通道血氧",
+            "8通道心率",
+            "ECG",
+            "腕温"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "AI运动教练"
+          ],
+          "detail": "AI运动教练 个性化运动建议 语音指导"
+        },
+        "body": {
+          "specPreview": [
+            "8.9mm超薄",
+            "35g"
+          ],
+          "detail": "厚度8.9mm 重量35g 1000+表盘"
+        },
+        "ai": {
+          "detail": "AI运动教练 个性化运动建议和语音指导"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "竞速黑",
+      "model": "OWS1",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20250930/edfbea466dba1eadae3b9459433a26be-867280811.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "AMOLED",
+            "3000尼特"
+          ],
+          "detail": "AMOLED 3000尼特"
+        },
+        "body": {
+          "specPreview": [
+            "8.9mm",
+            "35g"
+          ],
+          "detail": "8.9mm 35g"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

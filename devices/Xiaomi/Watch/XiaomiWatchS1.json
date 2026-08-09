@@ -1,0 +1,37 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": { "zh_CN": "小米手表 S1", "en_US": "Xiaomi Watch S1" },
+  "device_type": "手表",
+  "sku": [{
+    "sku_name": "曜石黑（黑色氟橡胶表带）",
+    "model": "M2112W1",
+    "images": [
+        "resource/1.png"
+      ],
+      "imagesText": "resource/1.png",
+    "setAsNormalSKU": true,
+    "specs": {
+      "frame_material": "不锈钢",
+      "display": { "specPreview": ["1.43\"", "AMOLED"], "detail": "1.43英寸 AMOLED，466×466" },
+      "screen_shape": "圆形",
+      "battery": { "specPreview": ["470mAh"], "detail": "470mAh 电池，磁吸式充电" },
+      "storage": ["4GB ROM"],
+      "water_resistance": "5ATM",
+      "positioning_support": "是",
+      "positioning": { "specPreview": ["双频GPS", "五大卫星系统"], "detail": "支持双频 GNSS、多星座定位" },
+      "nfc": "是",
+      "bluetooth": "BT5.2",
+      "wifi_support": "否",
+      "os": { "display": ["MIUI Watch", "Xiaomi Vela"] }
+    }
+  }, {
+    "sku_name": "流光银（蓝色真皮表带）",
+    "model": "M2112W1",
+    "images": ["https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202204211417_bf805bad7f7d12a39b2279e60ae65930.png"]
+  }, {
+    "sku_name": "流光银（棕色真皮表带）",
+    "model": "M2112W1",
+    "images": ["https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202204211417_059e17e55bcb9e0657dd34244413e821.png"]
+  }]
+}

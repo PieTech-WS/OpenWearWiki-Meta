@@ -1,0 +1,90 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 10",
+    "en_US": "Xiaomi Smart Band 10"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb10/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2457B1",
+      "images": [
+        "./resource/o66_标准版_1.png",
+        "./resource/o66_标准版_2.png",
+        "./resource/o66_标准版_3.png",
+        "./resource/o66_标准版_4.png"
+      ],
+      "imagesText": "./resource/o66_标准版_1.png\n./resource/o66_标准版_2.png\n./resource/o66_标准版_3.png\n./resource/o66_标准版_4.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "specPreview": [
+            "Xiaomi HyperOS",
+            "(VelaOS 4.0)"
+          ]
+        },
+        "display": {
+          "specPreview": ["212*520 PX", "1.72\" AMOLED"]
+        },
+        "platform": "bestechnic/bes2700IMP",
+        "storage": ["16MB PSRAM", "256MB ROM"],
+        "codename": "miwear.watch.o66cn",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "M2456B1",
+      "images": [
+        "./resource/o66_标准版_1.png",
+        "./resource/o66_标准版_2.png",
+        "./resource/o66_标准版_3.png",
+        "./resource/o66_标准版_4.png"
+      ],
+      "imagesText": "./resource/o66_标准版_1.png\n./resource/o66_标准版_2.png\n./resource/o66_标准版_3.png\n./resource/o66_标准版_4.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.o66nfc",
+        "storage": ["16MB PSRAM", "512MB ROM"]
+      }
+    },
+    {
+      "sku_name": "陶瓷版",
+      "model": "M2456B1",
+      "images": [
+        "./resource/o66tc_陶瓷版_1.png",
+        "./resource/o66tc_陶瓷版_2.png",
+        "./resource/o66tc_陶瓷版_3.png"
+      ],
+      "imagesText": "./resource/o66tc_陶瓷版_1.png\n./resource/o66tc_陶瓷版_2.png\n./resource/o66tc_陶瓷版_3.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.o66tc",
+        "storage": ["16MB PSRAM", "512MB ROM"]
+      }
+    },
+    {
+      "sku_name": "耀影金特别版",
+      "model": "M2456B1",
+      "images": [
+        "./resource/o66lj_耀影金版_4.png"
+      ],
+      "imagesText": "./resource/o66lj_耀影金版_4.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.o66lj",
+        "storage": ["16MB PSRAM", "512MB ROM"]
+
+      }
+    }
+  ]
+}

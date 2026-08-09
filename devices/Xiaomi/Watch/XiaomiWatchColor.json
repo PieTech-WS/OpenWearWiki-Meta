@@ -1,0 +1,35 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": { "zh_CN": "小米手表 Color", "en_US": "Mi Watch Color" },
+  "device_type": "手表",
+  "sku": [{
+    "sku_name": "时尚银",
+    "model": "XMWT02",
+    "images": [
+      "resource/color-fashion-silver.png"
+    ],
+    "setAsNormalSKU": true,
+    "specs": {
+      "frame_material": "铝合金",
+      "display": { "specPreview": ["1.39\"", "AMOLED"], "detail": "1.39英寸 AMOLED，454×454" },
+      "screen_shape": "圆形",
+      "battery": { "specPreview": ["420mAh"], "detail": "420mAh 电池，磁吸式充电" },
+      "water_resistance": "5ATM",
+      "positioning_support": "是",
+      "positioning": { "specPreview": ["GPS", "北斗"], "detail": "支持多星座 GNSS 定位" },
+      "nfc": "部分版本支持",
+      "bluetooth": "BT5.0",
+      "wifi_support": "否",
+      "os": { "display": ["MIUI Watch", "专有系统"] }
+    }
+  }, {
+    "sku_name": "典雅黑",
+    "model": "XMWT06）",
+    "images": ["resource/color-elegant-black.png"]
+  }, {
+    "sku_name": "Keith Haring 联名定制款",
+    "model": "XMWT06",
+    "images": ["resource/color-keith-haring.png"]
+  }]
+}

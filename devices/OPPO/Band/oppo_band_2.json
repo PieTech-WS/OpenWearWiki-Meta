@@ -1,0 +1,77 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OBB2",
+  "name": {
+    "zh_CN": "OPPO 手环2",
+    "en_US": "OPPO Band 2"
+  },
+  "notice": {
+    "title": "智能手环",
+    "text": "OPPO 手环2 全场景睡眠监测 运动防水"
+  },
+  "releaseDate": null,
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "OBB2",
+      "images": [
+        "../res/OPPO 手环标准版.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "RTOS"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "AMOLED"
+          ],
+          "detail": "AMOLED"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙"
+          ],
+          "detail": "蓝牙"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "全场景睡眠监测"
+        },
+        "sports": {
+          "specPreview": [
+            "多种运动模式"
+          ],
+          "detail": "运动防水"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "无实体按键"
+        },
+        "deviceSource": [],
+        "screenShape": "带状",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit T-Rex 2",
+  "name": {
+    "zh_CN": "Amazfit T-Rex 2",
+    "en_US": "Amazfit T-Rex 2"
+  },
+  "notice": {
+    "title": "户外运动手表",
+    "text": "T-Rex 2 MIL-STD-810G认证"
+  },
+  "deviceImage": "https://img-cdn.huami.com/20220407/5027638535747bc0f5541d9868bc9a78.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "T-Rex 2",
+      "images": [
+        "https://img-cdn.huami.com/20220407/5027638535747bc0f5541d9868bc9a78.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_2",
+          "display": [
+            "Zepp OS 2"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "2.1.0"
+          ],
+          "detail": "Zepp OS 2.1.0 API 2.1.0"
+        },
+        "display": {
+          "specPreview": [
+            "454×454 PX",
+            "1.39\" AMOLED"
+          ],
+          "detail": "1.39英寸圆形AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约24天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "10ATM"
+          ],
+          "detail": "10ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 双卫星GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker 3.0 PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker 3.0 PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚合物",
+            "MIL-STD-810G"
+          ],
+          "detail": "4个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 454,
+          "height": 454
+        },
+        "watchFacePreviewResolution": {
+          "width": 306,
+          "height": 306
+        },
+        "physicalButtons": 4,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

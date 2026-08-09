@@ -1,0 +1,109 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Cheetah (Round)",
+  "name": {
+    "zh_CN": "Amazfit Cheetah 圆形版",
+    "en_US": "Amazfit Cheetah (Round)"
+  },
+  "notice": {
+    "title": "跑步手表",
+    "text": "Cheetah 圆形版 NXP芯片"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/20230423/60dae1269ead3d133593528e06fe629d.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Cheetah Round",
+      "images": [
+        "https://img-cdn.zepp.com/20230423/60dae1269ead3d133593528e06fe629d.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_3",
+          "display": [
+            "Zepp OS 3"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "3.7.0"
+          ],
+          "detail": "Zepp OS 3.7.0 API 3.7.0"
+        },
+        "display": {
+          "specPreview": [
+            "454×454 PX",
+            "1.39\" AMOLED"
+          ],
+          "detail": "1.39英寸圆形AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker 5.0 PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker 5.0 PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "2个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 454,
+          "height": 454
+        },
+        "watchFacePreviewResolution": {
+          "width": 306,
+          "height": 306
+        },
+        "physicalButtons": 2,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

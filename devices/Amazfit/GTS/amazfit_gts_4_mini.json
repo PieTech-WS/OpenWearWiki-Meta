@@ -1,0 +1,107 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit GTS 4 Mini",
+  "name": {
+    "zh_CN": "Amazfit GTS 4 mini",
+    "en_US": "Amazfit GTS 4 Mini"
+  },
+  "notice": {
+    "title": "小巧方形手表",
+    "text": "GTS 4 mini 含new版本"
+  },
+  "deviceImage": "https://img-cdn.huami.com/20220513/a84b4dbfbc16f13bb0276b076016d539.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "GTS 4 Mini",
+      "images": [
+        "https://img-cdn.huami.com/20220513/a84b4dbfbc16f13bb0276b076016d539.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_1",
+          "display": [
+            "Zepp OS 1"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "1.0.0"
+          ],
+          "detail": "Zepp OS 1.0.0 API 1.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "336×384 PX",
+            "方形AMOLED"
+          ],
+          "detail": "方形AMOLED 336x384"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约15天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker 3.0 PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker 3.0 PPG",
+            "加速度",
+            "陀螺仪"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "120+运动模式"
+          ],
+          "detail": "120+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "1个按键"
+        },
+        "screenShape": "方形",
+        "screenResolution": {
+          "width": 336,
+          "height": 384
+        },
+        "watchFacePreviewResolution": {
+          "width": 228,
+          "height": 260
+        },
+        "physicalButtons": 1,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

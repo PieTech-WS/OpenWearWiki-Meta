@@ -1,0 +1,110 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Falcon",
+  "name": {
+    "zh_CN": "Amazfit Falcon",
+    "en_US": "Amazfit Falcon"
+  },
+  "notice": {
+    "title": "钛合金运动手表",
+    "text": "Falcon NXP芯片 钛合金机身"
+  },
+  "deviceImage": "https://img-cdn.huami.com/20211227/b513c7e72946fe696df07efe0d7d971c1640590095840.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Falcon",
+      "images": [
+        "https://img-cdn.huami.com/20211227/b513c7e72946fe696df07efe0d7d971c1640590095840.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_3",
+          "display": [
+            "Zepp OS 3"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "3.7.0"
+          ],
+          "detail": "Zepp OS 3.7.0 API 3.7.0"
+        },
+        "display": {
+          "specPreview": [
+            "416×416 PX",
+            "圆形AMOLED"
+          ],
+          "detail": "圆形AMOLED 416x416"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "20ATM"
+          ],
+          "detail": "20ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker 5.0 PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker 5.0 PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "钛合金"
+          ],
+          "detail": "4个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 416,
+          "height": 416
+        },
+        "watchFacePreviewResolution": {
+          "width": 280,
+          "height": 280
+        },
+        "physicalButtons": 4,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

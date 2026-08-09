@@ -1,0 +1,31 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "model": "XMWT01",
+  "name": { "zh_CN": "小米手表", "en_US": "Mi Watch" },
+  "device_type": "手表",
+  "sku": [{
+    "sku_name": "尊享版 曜石黑",
+    "model": "XMWT01",
+   "images": [
+        "resource/2.png"
+      ],
+      "imagesText": "resource/2.png",
+    "setAsNormalSKU": true,
+    "specs": {
+      "frame_material": "铝合金",
+      "display": { "specPreview": ["1.78\"", "AMOLED"], "detail": "1.78英寸 AMOLED，454×454" },
+      "screen_shape": "方形",
+      "battery": { "specPreview": ["570mAh"], "detail": "570mAh 电池，磁吸式充电" },
+      "platform": "qualcomm/sdw3100",
+      "storage": ["1GB RAM", "8GB ROM"],
+      "water_resistance": "5ATM",
+      "positioning_support": "是",
+      "positioning": { "specPreview": ["GPS", "北斗"], "detail": "支持多星座 GNSS 定位" },
+      "nfc": "是",
+      "bluetooth": "BT5.0",
+      "wifi_support": "是",
+      "os": { "display": ["MIUI For Watch", "Wear OS by Google"] }
+    }
+  }]
+}

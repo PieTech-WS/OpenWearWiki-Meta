@@ -1,0 +1,24 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "XMWT01",
+  "name": {
+    "zh_CN": "小米手表",
+    "en_US": "Mi Watch"
+  },
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "images": ["/image1.png"],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "xiaomi/miuiwatch",
+        "platform": "qualcomm/sdw3100"
+      }
+    },
+    {
+      "sku_name": "尊享版",
+      "images": ["/image2.png"]
+    }
+  ]
+}

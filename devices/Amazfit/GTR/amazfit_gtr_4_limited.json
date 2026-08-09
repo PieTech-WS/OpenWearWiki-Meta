@@ -1,0 +1,112 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit GTR 4 Limited Edition",
+  "name": {
+    "zh_CN": "Amazfit GTR 4 限定版",
+    "en_US": "Amazfit GTR 4 Limited Edition"
+  },
+  "notice": {
+    "title": "圆形智能手表",
+    "text": "GTR 4 限定版"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/20230202/d2cb455958160f39fe56e7b241053c21.png",
+  "sku": [
+    {
+      "sku_name": "限定版",
+      "model": "GTR 4 LE",
+      "images": [
+        "https://img-cdn.zepp.com/20230202/d2cb455958160f39fe56e7b241053c21.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_3",
+          "display": [
+            "Zepp OS 3"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "3.5.0"
+          ],
+          "detail": "Zepp OS 3.5.0 API 3.5.0"
+        },
+        "display": {
+          "specPreview": [
+            "466×466 PX",
+            "1.43\" AMOLED"
+          ],
+          "detail": "1.43英寸圆形AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠",
+            "压力"
+          ],
+          "detail": "BioTracker 5.0 PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker 5.0 PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "不锈钢"
+          ],
+          "detail": "2个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 466,
+          "height": 466
+        },
+        "watchFacePreviewResolution": {
+          "width": 314,
+          "height": 314
+        },
+        "physicalButtons": 2,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

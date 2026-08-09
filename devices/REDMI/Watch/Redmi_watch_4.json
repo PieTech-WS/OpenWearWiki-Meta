@@ -1,0 +1,40 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Watch 4",
+    "en_US": "Redmi Watch 4"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/242/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2314W1",
+      "images": [
+        "resource/rw4/典雅黑.png",
+        "resource/rw4/银雪白.png"
+      ],
+      "imagesText": "resource/rw4/典雅黑.png\nresource/rw4/银雪白.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "lchz.watch.n65",
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS"]
+        },
+        "platform": "bestechnic/bes2700ibp",
+        "storage": ["32MB RAM", "256MB ROM"],
+        "display": ["450*390 PX", "1.97\" AMOLED"],
+        "battery": "470mAh",
+        "connectivity": "Bluetooth 5.3",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

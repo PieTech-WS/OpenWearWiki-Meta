@@ -1,0 +1,153 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW211",
+  "name": {
+    "zh_CN": "OPPO Watch X",
+    "en_US": "OPPO Watch X"
+  },
+  "notice": {
+    "title": "经典圆形手表",
+    "text": "Watch X 蓝宝石水晶 精钢机身"
+  },
+  "releaseDate": "2024-02-29",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "千帆蔚蓝",
+      "model": "OWW211",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20240207/85893fdbd807d7a65a485f31b19a97ab-973763841.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "圆形 AMOLED",
+            "蓝宝石水晶表镜"
+          ],
+          "detail": "圆形AMOLED 蓝宝石水晶表镜"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约4天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS NFC eSIM独立通话"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧"
+          ],
+          "detail": "8通道心率 16通道血氧监测"
+        },
+        "sensors": {
+          "specPreview": [
+            "8通道心率",
+            "16通道血氧"
+          ],
+          "detail": "8通道心率传感器 16通道血氧传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "一体化精钢"
+          ],
+          "detail": "一体化精钢 178道工序打磨"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "星夜飞行",
+      "model": "OWW211",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20240207/16c2d66a4bdf82b20458efc98f3405ae1037329582.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "body": {
+          "specPreview": [
+            "一体化精钢",
+            "氟橡胶表带"
+          ],
+          "detail": "精钢 氟橡胶表带"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "冰川岩灰",
+      "model": "OWW211",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20241031/36b6cab091cbfd66122b9354a7a767042075290727.webp"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "body": {
+          "specPreview": [
+            "一体化精钢",
+            "液态硅胶表带"
+          ],
+          "detail": "精钢 液态硅胶表带"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

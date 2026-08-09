@@ -1,0 +1,67 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": { "zh_CN": "小米手表 S2", "en_US": "Xiaomi Watch S2" },
+  "device_type": "手表",
+  "notice": {
+    "title": "版本说明",
+    "text": "小米手表 S2 按尺寸和连接版本拆分为多个 SKU；不同地区版本的型号和网络能力可能不同。"
+  },
+  "sku": [
+    {
+      "sku_name": "曜石黑 42mm 黑硅胶表带",
+      "model": "M2205W1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211251906_8f9a36fc56c69da59bd9422d660ac46a.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "frame_material": "不锈钢",
+        "display": { "specPreview": ["1.32\"", "AMOLED"], "detail": "1.32英寸 AMOLED，466×466" },
+        "screen_shape": "圆形",
+        "battery": { "specPreview": ["305mAh"], "detail": "305mAh 电池，磁吸式充电" },
+        "water_resistance": "5ATM",
+        "sensors": { "specPreview": ["体成分分析", "多传感器"], "detail": "支持心率、血氧、睡眠、压力和体成分等监测" },
+        "positioning_support": "是",
+        "positioning": { "specPreview": ["双频GPS", "五大卫星系统"], "detail": "支持双频 GNSS、多星座定位" },
+        "nfc": "是",
+        "bluetooth": "BT5.2",
+        "wifi_support": "否",
+        "os": { "display": ["MIUI Watch", "Xiaomi Vela"] }
+      }
+    },
+    {
+      "sku_name": "浅金色 42mm 浅杏色真皮表带",
+      "model": "M2205W1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211251907_9ba26d09b4623b06a1a7b2f2801848fe.png"
+      ],
+      "specs": {
+        "display": { "specPreview": ["1.32\"", "AMOLED"], "detail": "1.32英寸 AMOLED，466×466" },
+        "battery": { "specPreview": ["305mAh"], "detail": "305mAh 电池，磁吸式充电" }
+      }
+    },
+    {
+      "sku_name": "曜石黑 46mm 黑硅胶表带",
+      "model": "M2206W1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211251907_16355cf59053bb12b66aa9be7b5695ad.png"
+      ],
+      "specs": {
+        "display": { "specPreview": ["1.43\"", "AMOLED"], "detail": "1.43英寸 AMOLED，466×466" },
+        "battery": { "specPreview": ["500mAh"], "detail": "500mAh 电池，磁吸式充电" }
+      }
+    },
+    {
+      "sku_name": "高亮银 46mm 港湾蓝真皮表带",
+      "model": "M2206W1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202211251907_f0caf37525c5e670d877c0a98fb6cf26.png"
+      ],
+      "specs": {
+        "display": { "specPreview": ["1.43\"", "AMOLED"], "detail": "1.43英寸 AMOLED，466×466" },
+        "battery": { "specPreview": ["500mAh"], "detail": "500mAh 电池，磁吸式充电" }
+      }
+    }
+  ]
+}

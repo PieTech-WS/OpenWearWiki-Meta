@@ -1,0 +1,106 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Bip 5 Unity",
+  "name": {
+    "zh_CN": "Amazfit Bip 5 Unity",
+    "en_US": "Amazfit Bip 5 Unity"
+  },
+  "notice": {
+    "title": "入门方形手表",
+    "text": "Bip 5 Unity 亦称Bip 5 Core"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/dial/20240304/56b66e3b8f8fa0a70aa9acb328f87f57.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Bip 5 Unity",
+      "images": [
+        "https://img-cdn.zepp.com/dial/20240304/56b66e3b8f8fa0a70aa9acb328f87f57.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_3",
+          "display": [
+            "Zepp OS 3"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "3.0.0"
+          ],
+          "detail": "Zepp OS 3.0.0 API 3.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "320×380 PX",
+            "方形TFT"
+          ],
+          "detail": "方形TFT 320x380"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "1个按键"
+        },
+        "screenShape": "方形",
+        "screenResolution": {
+          "width": 320,
+          "height": 380
+        },
+        "watchFacePreviewResolution": {
+          "width": 200,
+          "height": 238
+        },
+        "physicalButtons": 1,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

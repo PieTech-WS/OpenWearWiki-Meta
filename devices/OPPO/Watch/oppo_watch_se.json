@@ -1,0 +1,97 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWSE1",
+  "name": {
+    "zh_CN": "OPPO Watch SE",
+    "en_US": "OPPO Watch SE"
+  },
+  "notice": {
+    "title": "性价比智能手表",
+    "text": "Watch SE eSIM 10天长续航"
+  },
+  "releaseDate": "2022",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "深云灰",
+      "model": "OWSE1",
+      "images": [
+        "../res/Watch SE 深云灰 氟橡胶.png"
+      ],
+      "imagesText": "../res/Watch SE 深云灰 氟橡胶.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "AMOLED"
+          ],
+          "detail": "AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "10天长续航"
+          ],
+          "detail": "10天长续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC eSIM独立通信"
+        },
+        "health": {
+          "specPreview": [
+            "心率"
+          ],
+          "detail": "心率监测"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "智慧NFC"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "墨棕",
+      "model": "OWSE1",
+      "images": [
+        "../res/Watch SE 墨棕 氟橡胶.png"
+      ],
+      "imagesText": "../res/Watch SE 墨棕 氟橡胶.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Balance 2 XT",
+  "name": {
+    "zh_CN": "Amazfit Balance 2 XT",
+    "en_US": "Amazfit Balance 2 XT"
+  },
+  "notice": {
+    "title": "平衡型圆形手表",
+    "text": "Balance 2 XT ZPS芯片"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/equipment/20250527/f9f465edc33f647a12ab1099b277dfea.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Balance 2 XT",
+      "images": [
+        "https://img-cdn.zepp.com/equipment/20250527/f9f465edc33f647a12ab1099b277dfea.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_4",
+          "display": [
+            "Zepp OS 4"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "4.2.0"
+          ],
+          "detail": "Zepp OS 4.2.0 API 4.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "480×480 PX",
+            "1.5\" AMOLED"
+          ],
+          "detail": "1.5英寸圆形AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠",
+            "压力"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "不锈钢"
+          ],
+          "detail": "2个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 480,
+          "height": 480
+        },
+        "watchFacePreviewResolution": {
+          "width": 324,
+          "height": 324
+        },
+        "physicalButtons": 2,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

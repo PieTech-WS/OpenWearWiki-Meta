@@ -1,0 +1,59 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 8 Pro",
+    "en_US": "Xiaomi Smart Band 8 Pro"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb8p/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2303B1",
+      "images": [
+        "",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202308141734_05a676c7c7649f9dbf50373e609304f4.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202308141734_77d745e9e0b0f80dc2eb846319530e8f.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202308141735_54532206a055c0467da6ccec226001fe.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "os": "Xiaomi HyperOS（Vela）"
+        },
+        "codename": "lchz.watch.m67cn",
+        "platform": "bestechnic/bes2700ibp",
+        "storage": ["32MB RAM", "256MB ROM"],
+        "display": ["336*480 PX", "1.74\" AMOLED"],
+        "battery": "289mAh",
+        "connectivity": "Bluetooth 5.3",
+        "atm": "5ATM"
+    }
+    },
+    {
+      "sku_name": "原神定制版",
+      "model": "M2303B1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202312081429_bdb2c532113b9c19dca67fc83ff5abe6.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "lchz.watch.m67ys",
+        "os": "Xiaomi HyperOS（Vela）",
+        "platform": "bestechnic/bes2700ibp",
+        "storage": ["32MB RAM", "256MB ROM"],
+        "display": ["336*480 PX", "1.74\" AMOLED"],
+        "battery": "289mAh",
+        "connectivity": "Bluetooth 5.3",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

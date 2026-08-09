@@ -1,0 +1,74 @@
+{
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 9",
+    "en_US": "Xiaomi Smart Band 9"
+  },
+  "actions": [],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2345B1",
+      "images": [
+        "./resource/M2345B1_标准版_1.png",
+        "./resource/M2345B1_标准版_2.png",
+        "./resource/M2345B1_标准版_3.png",
+        "./resource/M2345B1_标准版_4.png"
+      ],
+      "imagesText": "./resource/M2345B1_标准版_1.png\n./resource/M2345B1_标准版_2.png\n./resource/M2345B1_标准版_3.png\n./resource/M2345B1_标准版_4.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "miwear.watch.n66cn",
+        "os": "Xiaomi HyperOS（Vela）",
+        "platform": "bestechnic/bes2700IMP",
+        "storage": ["16MB RAM", "256MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth_5.4",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "M2346B1",
+      "images": [
+        "./resource/M2346B1_NFC版_1.png",
+        "./resource/M2346B1_NFC版_2.png",
+        "./resource/M2346B1_NFC版_3.png",
+        "./resource/M2346B1_NFC版_4.png"
+      ],
+      "imagesText": "./resource/M2346B1_NFC版_1.png\n./resource/M2346B1_NFC版_2.png\n./resource/M2346B1_NFC版_3.png\n./resource/M2346B1_NFC版_4.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.n66nfc",
+        "os": "Xiaomi HyperOS（Vela）",
+        "platform": "bestechnic/bes2700IMP",
+        "storage": ["16MB RAM", "256MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth_5.4",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "陶瓷特别版",
+      "model": "M2346B1",
+      "images": [
+        "./resource/M2346B1_陶瓷特别版_1.png"
+      ],
+      "imagesText": "./resource/M2346B1_陶瓷特别版_1.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.n66tc",
+        "os": "Xiaomi HyperOS（Vela）",
+        "platform": "bestechnic/bes2700IMP",
+        "storage": ["16MB RAM", "256MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth_5.4",
+        "atm": "5ATM"
+      }
+    }
+  ],
+  "SchemaVersion": 1
+}

@@ -1,0 +1,63 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "M2225B1",
+  "name": {
+    "zh_CN": "Redmi Smart Band 2",
+    "en_US": "Redmi Smart Band 2"
+  },
+  "device_type": "手环",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2225B1",
+      "images": [
+       "resource/rb2/黑色.png",
+       "resource/rb2/米色.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "frame_material": "纤维高强聚合物边框",
+        "display": {
+          "specPreview": [
+            "1.47\"",
+            "AMOLED"
+          ],
+          "detail": "表面为2.5d强化玻璃盖板，1.47英寸AMOLED屏幕，最高450nits"
+        },
+        "screen_shape": "矩形",
+        "battery": {
+          "specPreview": [
+            "210mAh",
+            "磁吸充电"
+          ],
+          "detail": "210mAh 锂电池，充电接口为磁吸充电"
+        },
+        "platform": [
+          "ATS",
+          "ATS3085E"
+        ],
+        "storage": {
+          "specPreview": [
+            "64KB PSRAM",
+            "8MB+512KB"
+          ],
+          "detail": "运行内存 :64KB PSRAM 存储:8MB+512KB"
+        },
+        "water_resistance": "5ATM",
+        "sensors": {
+          "specPreview": [
+            "3项传感器"
+          ],
+          "detail": "加速度传感器,光学心率传感器,光学血氧传感器"
+        },
+        "positioning_support": "否",
+        "positioning": "无须作答",
+        "nfc": "否",
+        "bluetooth": "BT5.1",
+        "wifi_support": "否",
+        "wifi_detail": "不支持"
+        }
+      }
+  ]
+}

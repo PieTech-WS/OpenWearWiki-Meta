@@ -1,0 +1,75 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Watch S3",
+    "en_US": "Xiaomi Watch S3"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/236/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2313W1",
+      "images": [
+        "resource/s3/M2313W1_蓝牙版_1.png",
+        "resource/s3/M2313W1_蓝牙版_2.png"
+      ],
+      "imagesText": "resource/s3/M2313W1_蓝牙版_1.png\nresource/s3/M2313W1_蓝牙版_2.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": {
+          "specPreview": ["32MB PSRAM", "4GB eMMC"],
+          "detail": "运行内存: 32MB PSRAM\n存储芯片: KIOXIA THGBMNG5D1LBAIK, 4GB eMMC\n存储分配: 2GB(音乐存储), 2GB(系统资源文件)"
+        },
+        "display": {
+          "specPreview": ["466*466 PX", "1.43\" AMOLED"],
+          "detail": "1.43英寸 AMOLED 显示屏，分辨率 466 x 466，326PPI，表面为康宁玻璃"
+        },
+        "battery": {
+          "specPreview": ["486mAh", "磁吸充电"],
+          "detail": "486mAh 锂电池，充电接口为磁吸充电式"
+        },
+        "connectivity": {
+          "specPreview": ["BT5.2", "NFC"],
+          "detail": "蓝牙: BT5.2\nNFC: 支持\nWi-Fi: 不支持\n移动网络: 不支持"
+        },
+        "atm": "5ATM",
+        "sensor": {
+          "specPreview": ["心率/血氧", "加速度", "陀螺仪"],
+          "detail": "心率传感器（含血氧）、加速度传感器、陀螺仪、地磁传感器、气压传感器、环境光传感器、霍尔传感器"
+        },
+        "positioning": {
+          "specPreview": ["北斗", "GPS", "GLONASS"],
+          "detail": "北斗、GPS、GLONASS、Galileo、QZSS"
+        }
+      }
+    },
+    {
+      "sku_name": "eSIM版",
+      "model": "M2311W1",
+      "images": [
+        "resource/s3/M2311W1_eSIM版_1.png",
+        "resource/s3/M2311W1_eSIM版_2.png"
+      ],
+      "imagesText": "resource/s3/M2311W1_eSIM版_1.png\nresource/s3/M2311W1_eSIM版_2.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "connectivity": {
+          "specPreview": ["BT5.2", "LTE", "NFC"],
+          "detail": "蓝牙: BT5.2\nNFC: 支持\n移动网络: LTE Cat4&1 / VoLTE / WCDMA / GSM\nWi-Fi: 不支持"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Mi Band 2",
+    "en_US": "Mi Band 2"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb2/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "XMSH04HM",
+      "images": [
+         "./resource/小米手环2.png"
+      ],
+      "imagesText": "./resource/小米手环2.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "platform": "Dialog DA14697",
+        "storage": ["1MB Flash"],
+        "display": ["0.42\" AMOLED"],
+        "battery": "70mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "IP67"
+        }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": { "zh_CN": "小米手表 Color 2", "en_US": "Xiaomi Watch Color 2" },
+  "device_type": "手表",
+  "sku": [{
+    "sku_name": "星耀黑",
+    "model": "M2102W1",
+    "images": [
+      "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202204211419_626e47d8843927a9b719b9360d2b78dd.png"
+    ],
+    "setAsNormalSKU": true,
+    "specs": {
+      "frame_material": "玻纤增强尼龙",
+      "display": { "specPreview": ["1.43\"", "AMOLED"], "detail": "1.43英寸 AMOLED，466×466" },
+      "screen_shape": "圆形",
+      "battery": { "specPreview": ["470mAh"], "detail": "470mAh 电池，磁吸式充电" },
+      "water_resistance": "5ATM",
+      "positioning_support": "是",
+      "positioning": { "specPreview": ["GPS", "北斗"], "detail": "支持多星座 GNSS 定位" },
+      "nfc": "是",
+      "bluetooth": "BT5.0",
+      "wifi_support": "否",
+      "os": { "display": ["MIUI Watch", "专有系统"] }
+    }
+  }, {
+    "sku_name": "海洋蓝",
+    "model": "M2102W1",
+    "images": ["https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202204211419_4f5ad76956736da583652d2573189051.png"]
+  }, {
+    "sku_name": "皓月白",
+    "model": "M2102W1",
+    "images": ["https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202204211420_bcbb5e5c36404d6b67353c53e31fa918.png"]
+  }]
+}

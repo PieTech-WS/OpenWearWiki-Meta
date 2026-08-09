@@ -1,0 +1,77 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "O-Band",
+  "name": {
+    "zh_CN": "O-Band 智能手环",
+    "en_US": "O-Band Smart Band"
+  },
+  "notice": {
+    "title": "OPPO首款可穿戴",
+    "text": "O-Band 2014年 OPPO最早期可穿戴产品"
+  },
+  "releaseDate": "2014-03-19",
+  "sku": [
+    {
+      "sku_name": "黑白",
+      "model": "O-Band",
+  "images": [
+    "../res/O-Band 黑白 硅胶表带.png"
+  ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/oband_rtos",
+          "display": [
+            "RTOS"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "弧面LED"
+          ],
+          "detail": "弧面LED显示屏+圆形实体按键"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙"
+          ],
+          "detail": "蓝牙"
+        },
+        "health": {
+          "specPreview": [
+            "睡眠监测"
+          ],
+          "detail": "睡眠监测"
+        },
+        "sensors": {
+          "detail": "震动马达"
+        },
+        "sports": {
+          "specPreview": [
+            "基础计步"
+          ],
+          "detail": "基础计步"
+        },
+        "body": {
+          "specPreview": [
+            "金属质感",
+            "硅胶表带"
+          ],
+          "detail": "金属质感外观 硅胶表带+金属按扣 6个可选扣眼"
+        },
+        "features": {
+          "detail": "来电震动提醒 久坐震动提醒 贴身闹铃 远程拍照"
+        },
+        "deviceSource": [],
+        "screenShape": "带状",
+        "physicalButtons": 1,
+        "compatibility": [
+          "Android 4.0+",
+          "iOS 7.0+"
+        
+        ]
+      }
+    }
+  ]
+}

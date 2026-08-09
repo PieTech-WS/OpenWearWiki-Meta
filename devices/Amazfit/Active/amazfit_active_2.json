@@ -1,0 +1,110 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Active 2",
+  "name": {
+    "zh_CN": "Amazfit Active 2 圆形版",
+    "en_US": "Amazfit Active 2 (Round)"
+  },
+  "notice": {
+    "title": "圆形运动手表",
+    "text": "Active 2 圆形版 ZPS芯片"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/equipment/20250121/34d5793cdd717b1202ee1ce356d553bb.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Active 2 Round",
+      "images": [
+        "https://img-cdn.zepp.com/equipment/20250121/34d5793cdd717b1202ee1ce356d553bb.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_4",
+          "display": [
+            "Zepp OS 4"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "4.2.0"
+          ],
+          "detail": "Zepp OS 4.2.0 API 4.1.0"
+        },
+        "display": {
+          "specPreview": [
+            "466×466 PX",
+            "圆形AMOLED"
+          ],
+          "detail": "圆形AMOLED 466x466"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约10天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠",
+            "压力"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "2个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 466,
+          "height": 466
+        },
+        "watchFacePreviewResolution": {
+          "width": 314,
+          "height": 314
+        },
+        "physicalButtons": 2,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

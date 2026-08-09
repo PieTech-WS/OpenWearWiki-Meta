@@ -1,0 +1,106 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Band 7",
+  "name": {
+    "zh_CN": "Amazfit Band 7",
+    "en_US": "Amazfit Band 7"
+  },
+  "notice": {
+    "title": "智能手环",
+    "text": "Band 7 Dialog芯片 带状屏"
+  },
+  "deviceImage": "https://img-cdn.huami.com/20220513/113e439a345ec56823495f8346699667.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Band 7",
+      "images": [
+        "https://img-cdn.huami.com/20220513/113e439a345ec56823495f8346699667.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_1",
+          "display": [
+            "Zepp OS 1"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "1.0.0"
+          ],
+          "detail": "Zepp OS 1.0.0 API 1.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "194×368 PX",
+            "1.47\" AMOLED"
+          ],
+          "detail": "1.47英寸带状AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约18天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙"
+          ],
+          "detail": "蓝牙"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠",
+            "压力"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "120+运动模式"
+          ],
+          "detail": "120+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "无实体按键"
+        },
+        "screenShape": "带状",
+        "screenResolution": {
+          "width": 194,
+          "height": 368
+        },
+        "watchFacePreviewResolution": {
+          "width": 152,
+          "height": 288
+        },
+        "physicalButtons": 0,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

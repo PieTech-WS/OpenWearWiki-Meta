@@ -1,0 +1,77 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Mi Smart Band 4",
+    "en_US": "Mi Smart Band 4"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb4/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "XMSH07HM",
+      "images": [
+       "./resource/小米手环4 石墨黑.png",
+       "./resource/小米手环 4 深空蓝.png",
+       "./resource/小米手环 4 酒红.png",
+       "./resource/小米手环 4 热力橙.png"
+      ],
+     "imagesText": "./resource/小米手环4 石墨黑.png\n./resource/小米手环 4 深空蓝.png\n./resource/小米手环 4 酒红.png\n./resource/小米手环 4 热力橙.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "codename": "hmpace.bracelet.v4",
+        "platform": "Dialog DA14697",
+        "storage": ["512KB RAM", "16MB ROM"],
+        "display": ["120*240", "0.95\" AMOLED"],
+        "battery": "135mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "XMSH08HM",
+      "images": [
+       "./resource/小米手环 4 NFC.png"
+      ],
+      "imagesText": "./resource/小米手环 4 NFC.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "codename": "hmpace.bracelet.v4.nfc",
+        "platform": "Dialog DA14697",
+        "storage": ["512KB RAM", "16MB ROM"],
+        "display": ["120*240", "0.95\" AMOLED"],
+        "battery": "125mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+      },
+    {
+      "sku_name": "复仇者联盟系列限量版",
+      "model": "XMSH07HM",
+      "images": [
+       "./resource/小米手环 4 复仇者联盟系列限量版.png"
+      ],
+      "imagesText": "./resource/小米手环 4 复仇者联盟系列限量版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "codename": "hmpace.bracelet.v4.avenger",
+        "platform": "Dialog DA14697",
+        "storage": ["512KB RAM", "16MB ROM"],
+        "display": ["120*240", "0.95\" AMOLED"],
+        "battery": "125mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

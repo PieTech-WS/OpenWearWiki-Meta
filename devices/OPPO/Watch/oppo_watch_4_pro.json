@@ -1,0 +1,126 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW201",
+  "name": {
+    "zh_CN": "OPPO Watch 4 Pro",
+    "en_US": "OPPO Watch 4 Pro"
+  },
+  "notice": {
+    "title": "寰宇曲面手表",
+    "text": "Watch 4 Pro 60秒体检 自研羽毛球模式"
+  },
+  "releaseDate": "2023-08-29",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "黑色氟橡胶",
+      "model": "OWW201",
+      "images": [
+        "../res/watch 4 pro 黑色氟橡胶.png"
+      ],
+      "imagesText": "../res/watch 4 pro 黑色氟橡胶.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "寰宇曲面 AMOLED"
+          ],
+          "detail": "寰宇曲面设计 AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "UDDE双擎混动续航",
+            "磁吸充电"
+          ],
+          "detail": "UDDE双擎混动续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC eSIM"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "60秒体检 自研专业羽毛球模式"
+        },
+        "sensors": {
+          "specPreview": [
+            "PPG心率",
+            "血氧传感器"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式",
+            "羽毛球模式"
+          ],
+          "detail": "100+运动模式 自研专业羽毛球模式"
+        },
+        "body": {
+          "specPreview": [
+            "寰宇曲面设计"
+          ],
+          "detail": "寰宇曲面设计"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "棕色牛皮+黑色氟橡胶",
+      "model": "OWW201",
+      "images": [
+        "../res/Watch 4 Pro 棕色牛皮+黑色氟橡胶.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "body": {
+          "specPreview": [
+            "寰宇曲面设计",
+            "牛皮表带"
+          ],
+          "detail": "寰宇曲面 棕色牛皮+黑色氟橡胶"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

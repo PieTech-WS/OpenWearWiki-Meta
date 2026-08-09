@@ -1,0 +1,243 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW251",
+  "name": {
+    "zh_CN": "OPPO Watch X3 Mini",
+    "en_US": "OPPO Watch X3 Mini"
+  },
+  "notice": {
+    "title": "轻量智能手表",
+    "text": "Watch X3 Mini 仅29.8g eSIM独立通话"
+  },
+  "releaseDate": "2026-04",
+  "sku": [
+    {
+      "sku_name": "eSIM版 摩卡棕",
+      "model": "OWW251",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260325/dd2a1121f44200d59119676d56fb1e901492624456.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.28\" AMOLED",
+            "PPI 326"
+          ],
+          "detail": "1.28英寸AMOLED微曲面屏 PPI 326 康宁大猩猩玻璃DX+"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸触点充电"
+          ],
+          "detail": "续航约3天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙5.0 Wi-Fi GPS NFC eSIM三大运营商"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "压力",
+            "睡眠"
+          ],
+          "detail": "八通道PPG传感器 六轴加速度计 BioSense 3.2算法 华西医院临床验证"
+        },
+        "sensors": {
+          "specPreview": [
+            "八通道PPG",
+            "六轴加速度计"
+          ],
+          "detail": "八通道PPG传感器 六轴加速度计"
+        },
+        "sports": {
+          "specPreview": [
+            "多种运动模式"
+          ],
+          "detail": "支持多种运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "航空级铝合金",
+            "29.8g"
+          ],
+          "detail": "航空级铝合金 蓝宝石玻璃盖板 双层纳米级染色工艺"
+        },
+        "esim": {
+          "specPreview": [
+            "支持"
+          ],
+          "detail": "eSIM独立通话 三大运营商全频段"
+        },
+        "healthFeatures": {
+          "detail": "生理周期监测 身心状态评估 HRV变异性分析 睡眠分期"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "screenResolution": null,
+        "physicalButtons": null,
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "eSIM版 高光金",
+      "model": "OWW251",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260325/913ac4784f624d7fddab56787926f0991035132709.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.28\" AMOLED",
+            "PPI 326"
+          ],
+          "detail": "1.28英寸AMOLED微曲面屏 PPI 326"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸触点充电"
+          ],
+          "detail": "续航约3天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "Wi-Fi",
+            "GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "eSIM三大运营商"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "压力",
+            "睡眠"
+          ],
+          "detail": "八通道PPG BioSense 3.2"
+        },
+        "body": {
+          "specPreview": [
+            "航空级铝合金",
+            "29.8g"
+          ],
+          "detail": "航空级铝合金"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "蓝牙版",
+      "model": "OWW251",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260325/6eacbcd4ca666d33f3608b14564593761496434267.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.28\" AMOLED",
+            "PPI 326"
+          ],
+          "detail": "1.28英寸AMOLED微曲面屏"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航",
+            "磁吸触点充电"
+          ],
+          "detail": "续航更长"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "Wi-Fi",
+            "GPS",
+            "NFC"
+          ],
+          "detail": "不含eSIM"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "压力",
+            "睡眠"
+          ],
+          "detail": "八通道PPG BioSense 3.2"
+        },
+        "body": {
+          "specPreview": [
+            "航空级铝合金",
+            "29.8g"
+          ],
+          "detail": "航空级铝合金"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

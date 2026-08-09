@@ -1,0 +1,54 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Watch 3",
+    "en_US": "Redmi Watch 3"
+  },
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2215W1",
+       "images": [
+        "resource/rw3/典雅黑.png",
+        "resource/rw3/象牙白.png"
+      ],
+      "imagesText": "resource/rw3/典雅黑.png\nresource/rw3/象牙白.png,",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "mijia.watch.m65s",
+        "os": {
+          "display": ["Proprietary OS"]
+        },
+        "platform": "Ambiq Apollo4 Plus",
+        "storage": ["16MB RAM", "128MB ROM"],
+        "display": ["450*390 PX", "1.75\" AMOLED"],
+        "battery": "289mAh",
+        "connectivity": "Bluetooth 5.2",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "青春版",
+      "model": "M2309W1",
+      "images": [
+        "resource/rw3/青春版暮云灰.png",
+        "resource/rw3/青春版深空黑.png"
+      ],
+      "imagesText": "resource/rw3/青春版暮云灰.png\nresource/rw3/青春版深空黑.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "mijia.watch.m65ac",
+        "os": {
+          "display": ["Proprietary OS"]
+        },
+        "platform": "Actions炬芯科技ATS3085L",
+        "storage": ["16MB RAM", "128MB ROM"],
+        "display": ["450*390 PX", "1.75\" AMOLED"],
+        "battery": "289mAh",
+        "connectivity": "Bluetooth 5.2",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit Cheetah 2 Ultra",
+  "name": {
+    "zh_CN": "Amazfit Cheetah 2 Ultra",
+    "en_US": "Amazfit Cheetah 2 Ultra"
+  },
+  "notice": {
+    "title": "旗舰跑步手表",
+    "text": "Cheetah 2 Ultra Zepp OS 4.4"
+  },
+  "deviceImage": "https://store-cdn.zepp.com/light-app-store/20260514/f7ebb46edd27cd24cefb357244246c43.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "Cheetah 2 Ultra",
+      "images": [
+        "https://store-cdn.zepp.com/light-app-store/20260514/f7ebb46edd27cd24cefb357244246c43.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_4",
+          "display": [
+            "Zepp OS 4"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "4.4.0"
+          ],
+          "detail": "Zepp OS 4.4.0"
+        },
+        "display": {
+          "specPreview": [
+            "480×480 PX",
+            "圆形AMOLED"
+          ],
+          "detail": "圆形AMOLED 480x480"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约20天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "10ATM"
+          ],
+          "detail": "10ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪",
+            "气压计",
+            "地磁"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "150+运动模式"
+          ],
+          "detail": "150+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "不锈钢"
+          ],
+          "detail": "4个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 480,
+          "height": 480
+        },
+        "watchFacePreviewResolution": {
+          "width": 324,
+          "height": 324
+        },
+        "physicalButtons": 4,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

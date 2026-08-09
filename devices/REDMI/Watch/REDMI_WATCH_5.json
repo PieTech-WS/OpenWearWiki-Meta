@@ -1,0 +1,63 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI Watch 5",
+    "en_US": "REDMI Watch 5"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/236/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2427W1",
+      "images": [
+        "resource/rw5/M2427W1_蓝牙版_1.png",
+        "resource/rw5/M2427W1_蓝牙版_2.png"
+      ],
+      "imagesText": "resource/rw5/M2427W1_蓝牙版_1.png\nresource/rw5/M2427W1_蓝牙版_2.png\nresource/rw5/M2427W1_蓝牙版_3.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "codename": "miwear.watch.o65",
+        "platform": "bestechnic/bes2700ibp",
+        "storage": ["32MB RAM", "512MB ROM"],
+        "display": ["432*514 PX", "2.07\" AMOLED"],
+        "battery": "550mAh",
+        "connectivity": "Bluetooth 5.3",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "eSIM版",
+      "model": "M2428W1",
+      "images": [
+        "resource/rw5/M2428W1_eSIM版_3.png"
+      ],
+      "imagesText": "resource/rw5/M2428W1_eSIM版_1.png\nresource/rw5/M2428W1_eSIM版_2.png\nresource/rw5/M2428W1_eSIM版_3.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+
+        "codename": "miwear.watch.o65m",
+        "platform": "XRING T1",
+        "storage": ["80MB RAM", "4GB ROM"],
+        "display": ["432*514 PX", "2.07\" AMOLED"],
+        "battery": "550mAh",
+        "connectivity": "Bluetooth 5.3",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

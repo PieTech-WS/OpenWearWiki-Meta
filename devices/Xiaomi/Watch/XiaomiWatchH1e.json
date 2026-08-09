@@ -1,0 +1,72 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "M2412W1",
+  "name": {
+    "zh_CN": "Xiaomi Watch H1 E",
+    "en_US": "Xiaomi Watch H1 E"
+  },
+  "notice": {
+    "title": "医疗器械认证",
+    "text": "小米腕部血压记录仪已通过国家药品监督管理局二类医疗器械注册，采用示波法气囊加压测量，血压测量精度达±3mmHg，经三甲医院数据校验。"
+  },
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2412W1",
+      "images": ["https://msecfs.opposhop.cn/commons-media-picture/GOODS/20260309/a50a675c21dd437b4436159ee1d5d120-1634119678.png"],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela)"]
+        },
+        "platform": {
+          "specPreview": ["高性能低功耗处理器"],
+          "detail": "搭载高性能低功耗处理器，专为健康监测场景优化，支持血压算法实时运算和全天候健康数据采集。"
+        },
+        "display": {
+          "specPreview": ["466×466 PX", "1.43\" AMOLED"],
+          "detail": "1.43英寸全圆AMOLED高清屏幕，分辨率466×466像素，色彩饱满细腻，支持息屏显示(AOD)，各种光照条件下清晰可读。"
+        },
+        "battery": {
+          "specPreview": ["长续航", "磁吸充电"],
+          "detail": "大容量锂电池，典型使用场景续航约9天，或支持约190次血压检测。支持磁吸充电。"
+        },
+        "waterproof": {
+          "specPreview": ["IP68"],
+          "detail": "支持IP68防尘防水等级，日常洗手、雨天佩戴无忧。注意：不适用于游泳或潜水。"
+        },
+        "connectivity": {
+          "specPreview": ["蓝牙 5.2", "NFC", "蓝牙通话"],
+          "detail": "支持蓝牙5.2连接及蓝牙通话功能；全功能NFC，支持门禁卡、公交卡等。"
+        },
+        "bloodpressure": {
+          "specPreview": ["示波法测量", "气囊加压", "全天血压监测"],
+          "detail": "采用医疗级示波法测量技术，内置微气泵和弹性气囊，配合压力传感器协同测量，精度达±3mmHg。支持全天血压测量（白天定时提示、夜间自动记录），通过手机APP进行数据同步和分析。"
+        },
+        "health": {
+          "specPreview": ["心率监测", "血氧监测", "皮肤温度"],
+          "detail": "全天候心率监测、血氧(SpO2)监测、皮肤温度监测、睡眠质量监测、压力监测、呼吸监测、女性健康管理。家人数据共享功能，方便远程关注家人健康。"
+        },
+        "sensors": {
+          "specPreview": ["高敏6轴惯性传感器", "光学心率传感器", "压力传感器"],
+          "detail": "高敏6轴惯性传感器（加速度+陀螺仪）、光学心率及血氧传感器、微气泵、弹性气囊、压力传感器，多维度健康数据精准采集。"
+        },
+        "sports": {
+          "specPreview": ["100+ 运动模式"],
+          "detail": "支持100+种运动模式，覆盖跑步、骑行、登山等常见运动类型，运动数据实时记录与分析。"
+        },
+        "safety": {
+          "specPreview": ["跌倒检测", "紧急求助", "医疗急救卡"],
+          "detail": "高敏6轴惯性传感器自动识别跌倒情况，自动发起紧急求助，发送定位求助信息并自动展示医疗急救卡，救助更及时。"
+        },
+        "body": {
+          "specPreview": ["铝合金一体化机身", "不锈钢表圈"],
+          "detail": "铝合金一体化雕琢机身，不锈钢表圈，精致表冠设计。一体化气囊腕带，舒适贴合手腕，便于血压测量。"
+        },
+        "compatibility": ["Android 6.0+", "iOS 12.0+"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,182 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OBB1",
+  "name": {
+    "zh_CN": "OPPO 手环",
+    "en_US": "OPPO Band"
+  },
+  "notice": {
+    "title": "智能手环",
+    "text": "OPPO 手环 连续血氧监测 12种运动模式"
+  },
+  "releaseDate": "2020-06-05",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "OBB1",
+  "images": [
+    "../res/OPPO 手环 标准版 黑色.png"
+  ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "RTOS"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.1\" AMOLED"
+          ],
+          "detail": "1.1英寸AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "续航14天",
+            "磁吸充电"
+          ],
+          "detail": "续航14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙"
+          ],
+          "detail": "蓝牙"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧"
+          ],
+          "detail": "连续血氧监测（睡眠中每秒监测）"
+        },
+        "sensors": {
+          "specPreview": [
+            "血氧传感器",
+            "PPG心率"
+          ],
+          "detail": "血氧传感器 PPG心率"
+        },
+        "sports": {
+          "specPreview": [
+            "12种运动模式"
+          ],
+          "detail": "12种专业运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "无实体按键"
+        },
+        "deviceSource": [],
+        "screenShape": "带状",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "时尚版",
+      "model": "OBB1",
+      "images": [
+        "../res/OPPO 手环 时尚版 时尚表带 249.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "battery": {
+          "specPreview": [
+            "续航14天"
+          ],
+          "detail": "续航14天"
+        },
+        "body": {
+          "detail": "时尚表带"
+        },
+        "screenShape": "带状",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "活力版",
+      "model": "OBB1",
+      "images": [
+        "../res/OPPO 手环 活力版 活力配色 169.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "waterproof": {
+          "specPreview": [
+            "IP57"
+          ],
+          "detail": "IP57防水防尘"
+        },
+        "battery": {
+          "specPreview": [
+            "7-14天"
+          ],
+          "detail": "续航7-14天"
+        },
+        "body": {
+          "detail": "活力配色"
+        },
+        "screenShape": "带状",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "EVA限定版",
+      "model": "OBB1",
+      "images": [
+        "../res/OPPO 手环 EVA 限定版 EVA 联名 299.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "battery": {
+          "specPreview": [
+            "续航14天"
+          ],
+          "detail": "续航14天"
+        },
+        "body": {
+          "detail": "EVA联名设计"
+        },
+        "screenShape": "带状",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

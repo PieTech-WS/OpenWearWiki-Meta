@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Watch S4 41mm",
+    "en_US": "Xiaomi Watch S4 41mm"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/236/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2502W1",
+      "images": [
+        "resource/s4-41/Xiaomi_Watch_S4_41mm_标准版_1.png",
+        "resource/s4-41/Xiaomi_Watch_S4_41mm_标准版_2.png",
+        "resource/s4-41/Xiaomi_Watch_S4_41mm_标准版_3.png",
+        "resource/s4-41/Xiaomi_Watch_S4_41mm_标准版_4.png"
+      ],
+      "imagesText": "resource/s4-41/Xiaomi_Watch_S4_41mm_标准版_1.png\nresource/s4-41/Xiaomi_Watch_S4_41mm_标准版_2.png\nresource/s4-41/Xiaomi_Watch_S4_41mm_标准版_3.png\nresource/s4-41/Xiaomi_Watch_S4_41mm_标准版_4.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.32\" AMOLED"],
+        "battery": "320mAh",
+        "connectivity": "Bluetooth 5.4",
+        "codename": "miwear.watch.o63",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

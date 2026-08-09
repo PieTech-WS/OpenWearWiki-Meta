@@ -1,0 +1,34 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": { "zh_CN": "小米手表 S1 Pro", "en_US": "Xiaomi Watch S1 Pro" },
+  "device_type": "手表",
+  "sku": [{
+    "sku_name": "黑色不锈钢表壳（黑色氟橡胶表带）",
+    "model": "M2134W1",
+    "images": [
+      "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202208102330_6a3165aeb394d5649ec73f42d441ed72.png"
+    ],
+    "setAsNormalSKU": true,
+    "specs": {
+      "frame_material": "不锈钢",
+      "display": { "specPreview": ["1.47\"", "AMOLED"], "detail": "1.47英寸 AMOLED，480×480" },
+      "screen_shape": "圆形",
+      "battery": { "specPreview": ["500mAh"], "detail": "500mAh 电池，磁吸式充电" },
+      "storage": ["待确认"],
+      "water_resistance": "5ATM",
+      "positioning_support": "是",
+      "positioning": { "specPreview": ["双频GPS", "五大卫星系统"], "detail": "支持双频 GNSS、多星座定位" },
+      "nfc": "是",
+      "bluetooth": "BT5.2",
+      "wifi_support": "否",
+      "os": { "display": ["Xiaomi HyperOS", "Vela"] }
+    }
+  }, {
+    "sku_name": "银色不锈钢表壳（真皮棕色表带）",
+    "model": "M2134W1",
+    "images": [
+      "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202208102330_fec8af4d5861f2c0a3fea2b8879ae859.png"
+    ]
+  }]
+}

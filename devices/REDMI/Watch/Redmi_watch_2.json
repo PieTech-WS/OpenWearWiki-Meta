@@ -1,0 +1,33 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Watch 2",
+    "en_US": "Redmi Watch 2"
+  },
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M202W1",
+      "images": [
+        "resource/rw2/典雅黑.png",
+        "resource/rw2/深空篮.png",
+        "resource/rw2/象牙白.png"
+      ],
+      "imagesText": "resource/rw2/典雅黑.png\nresource/rw2/深空篮.png\nresource/rw2/象牙白.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "mijia.watch.k65",
+        "os": {
+        "display": ["Proprietary OS"]
+        },
+        "platform": "Apollo3.5",
+        "storage": ["4MB RAM", "64MB ROM"],
+        "display": ["360*320 PX", "1.6\" AMOLED"],
+        "battery": "225mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

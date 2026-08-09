@@ -1,0 +1,86 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Watch S4",
+    "en_US": "Xiaomi Watch S4"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/236/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2425W1",
+      "images": [
+        "resource/s4/M2425W1_蓝牙版_1.png",
+        "resource/s4/M2425W1_蓝牙版_2.png",
+        "resource/s4/M2425W1_蓝牙版_3.png"
+      ],
+      "imagesText": "resource/s4/M2425W1_蓝牙版_1.png\nresource/s4/M2425W1_蓝牙版_2.png\nresource/s4/M2425W1_蓝牙版_3.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.43\" AMOLED"],
+        "battery": "486mAh",
+        "connectivity": "Bluetooth 5.3",
+        "codename": "mijia.watch.o62",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "eSIM版",
+      "model": "M2424W1",
+      "images": [
+        "resource/s4/M2424W1_eSIM版_1.png"
+      ],
+      "imagesText": "resource/s4/M2424W1_eSIM版_1.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.43\" AMOLED"],
+        "battery": "486mAh",
+        "connectivity": "Bluetooth 5.3",
+        "codename": "mijia.watch.o62lte",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "eSIM 15周年纪念版",
+      "model": "M2426W1",
+      "images": [
+        "resource/s4/M2426W1_S4_15th_1.png",
+        "resource/s4/M2426W1_S4_15th_2.png"
+      ],
+      "imagesText": "resource/s4/M2426W1_S4_15th_1.png\nresource/s4/M2426W1_S4_15th_2.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "platform": "XRING T1",
+        "storage": ["64MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.43\" AMOLED"],
+        "battery": "486mAh",
+        "connectivity": "Bluetooth 5.3",
+        "codename": "mijia.watch.o62m",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

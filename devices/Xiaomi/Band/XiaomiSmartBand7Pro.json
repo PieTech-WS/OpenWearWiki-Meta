@@ -1,0 +1,38 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 7 Pro",
+    "en_US": "Xiaomi Smart Band 7 Pro"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb7p/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2225B1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202207011906_e7f02b803d3da16ec56a611e790243ba.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202207011906_c31933bf0682ce957b89f82940e904e6.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "display": ["RTOS"]
+        },
+        "codename": "hqbd3.watch.l67",
+        "platform": "Dialog 14706",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["280*456 PX", "1.64\" AMOLED"],
+        "battery": "235mAh",
+        "connectivity": "Bluetooth 5.2",
+        "atm": "5ATM"
+    }
+  }
+]
+}

@@ -1,0 +1,123 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW171",
+  "name": {
+    "zh_CN": "OPPO Watch 3",
+    "en_US": "OPPO Watch 3"
+  },
+  "notice": {
+    "title": "旗舰双芯手表",
+    "text": "Watch 3 旗舰双芯 个性化表盘"
+  },
+  "releaseDate": "2022-08-10",
+  "sku": [
+    {
+      "sku_name": "氟橡胶表带款",
+      "model": "OWW171",
+      "images": [
+        "../res/1.png"
+      ],
+      "imagesText": "../res/1.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "3D AMOLED"
+          ],
+          "detail": "3D AMOLED双曲无界屏"
+        },
+        "battery": {
+          "specPreview": [
+            "UDDE双擎混动续航"
+          ],
+          "detail": "UDDE双擎混动续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "GPS",
+            "NFC"
+          ],
+          "detail": "蓝牙 Wi-Fi GPS NFC"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧"
+          ],
+          "detail": "实时心率监测"
+        },
+        "sensors": {
+          "specPreview": [
+            "PPG心率"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "旗舰双芯"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "真皮表带款",
+      "model": "OWW171",
+      "images": [
+        "../res/2.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "溢彩蓝",
+      "model": "OWW171",
+      "images": [
+        "../res/3.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

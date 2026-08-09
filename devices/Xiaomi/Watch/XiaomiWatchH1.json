@@ -1,0 +1,70 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "M2230W1",
+  "name": {
+    "zh_CN": "Xiaomi Watch H1",
+    "en_US": "Xiaomi Watch H1"
+  },
+  "notice": {
+    "title": "医疗器械认证",
+    "text": "小米腕部心电血压记录仪已通过国家药品监督管理局二类医疗器械注册，血压测量精度达±3mmHg。"
+  },
+
+  "sku": [
+    {
+      "sku_name": "eSIM 版",
+      "model": "M2230W1",
+      "images": ["https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202310262032_d6242148bfa088bfb75dfadf38a14a63.png"],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela)"]
+        },
+        "platform": {
+          "specPreview": ["4核 A73 处理器"],
+          "detail": "搭载4核 Cortex-A73 高性能处理器，运行流畅，支持复杂健康算法实时运算。"
+        },
+        "storage": ["4GB RAM", "64GB ROM"],
+        "display": {
+          "specPreview": ["466×466 PX", "1.43\" AMOLED"],
+          "detail": "1.43英寸全圆AMOLED高清屏幕，分辨率466×466像素，支持息屏显示(AOD)，色彩细腻，阳光下清晰可读。"
+        },
+        "battery": {
+          "specPreview": ["500mAh", "磁吸充电"],
+          "detail": "500mAh大容量锂电池，典型使用场景续航约9天，支持磁吸无线充电。"
+        },
+        "waterproof": {
+          "specPreview": ["IP68", "5ATM"],
+          "detail": "支持IP68防尘防水等级，5ATM防水，日常洗手、雨天佩戴无忧。注意：不适用于游泳或潜水。"
+        },
+        "connectivity": {
+          "specPreview": ["蓝牙 5.2", "eSIM", "NFC"],
+          "detail": "支持蓝牙5.2连接及蓝牙通话；内置eSIM芯片，支持独立接打电话和上网；全功能NFC，支持门禁卡、公交卡等。"
+        },
+        "health": {
+          "specPreview": ["血压测量", "ECG心电", "血氧监测"],
+          "detail": "医疗级血压测量（示波法，精度±3mmHg），ECG心电采集，全天心率监测，血氧(SpO2)监测，睡眠质量监测，压力监测，呼吸训练。内置高精度微气泵和差压传感器，配合气囊实现精准加压测量。"
+        },
+        "sensors": {
+          "specPreview": ["加速度传感器", "陀螺仪", "光学心率传感器", "心电采集传感器", "差压传感器"],
+          "detail": "配备加速度传感器、陀螺仪、光学心率及血氧传感器、心电采集传感器、差压传感器，全方位健康数据采集。"
+        },
+        "sports": {
+          "specPreview": ["100+ 运动模式"],
+          "detail": "支持100+种运动模式，覆盖跑步、骑行、游泳、登山等常见运动类型，自动识别运动状态。"
+        },
+        "safety": {
+          "specPreview": ["跌倒检测", "紧急求助"],
+          "detail": "高敏6轴惯性传感器自动识别跌倒情况，可发起紧急求助，发送定位信息并自动展示医疗急救卡。"
+        },
+        "body": {
+          "specPreview": ["铝合金机身", "不锈钢表圈"],
+          "detail": "铝合金一体化机身，不锈钢表圈，精致纹理表冠。尺寸47×47×12mm，重约48.5g。表带材质：氟橡胶/一体化气囊腕带。"
+        },
+        "compatibility": ["Android 6.0+", "iOS 12.0+"]
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "model": "miwear.watch.o61",
+  "name": { "zh_CN": "Xiaomi Watch 5", "en_US": "Xiaomi Watch 5" },
+  "device_type": "手表",
+  "sku": [
+    {
+      "sku_name": "蓝牙版 黑色氟胶表带款",
+      "model": "miwear.watch.o61",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512251758_60e9d6ddc95d0a589ae1471b9af51e11.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "model": "miwear.watch.o61",
+        "codename": "o61",
+        "platform": ["Qualcomm Snapdragon W5 Gen 1", "BES2800 低功耗处理器"],
+        "storage": ["2GB RAM", "32GB ROM"],
+        "display": ["1.54 英寸 AMOLED", "480 x 480 PX", "312 PPI", "最高 1500 nits", "蓝宝石玻璃"],
+        "battery": ["930mAh", "约 90 分钟充满", "智能模式最长 6 天", "AOD 智能模式最长 4 天", "省电模式最长 18 天"],
+        "connectivity": ["2.4GHz Wi-Fi", "NFC", "蓝牙通话"],
+        "bluetooth": "BT/BLE 5.4",
+        "wifi_support": "支持",
+        "wifi_detail": "2.4GHz Wi-Fi",
+        "positioning": "双频 L1+L5：GPS、Galileo、GLONASS、北斗、QZSS",
+        "atm": "5ATM",
+        "water_resistance": "5ATM",
+        "sensors": ["PPG", "加速度计", "陀螺仪", "环境光", "电子罗盘", "气压计", "EMG"]
+      }
+    },
+    {
+      "sku_name": "蓝牙版 卡其绿氟胶表带款",
+      "model": "miwear.watch.o61",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512251801_623a3d204025a4d3a56d1e6976793373.png"
+      ]
+    },
+    {
+      "sku_name": "eSIM版 金棕色真皮表带款",
+      "model": "miwear.watch.o61",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512251801_b3ff3fa9f0b98554bcd2304d9fe5352c.png"
+      ],
+      "specs": {
+        "connectivity": ["eSIM", "2.4GHz Wi-Fi", "NFC", "蓝牙通话"]
+      }
+    },
+    {
+      "sku_name": "eSIM版 柔雾蓝真皮表带款",
+      "model": "miwear.watch.o61",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-pub/202512251801_6bfc90d1ffd0996cb2910bf5331da61f.png"
+      ],
+      "specs": {
+        "connectivity": ["eSIM", "2.4GHz Wi-Fi", "NFC", "蓝牙通话"]
+      }
+    }
+  ]
+}

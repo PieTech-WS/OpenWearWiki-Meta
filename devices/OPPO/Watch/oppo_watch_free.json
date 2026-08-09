@@ -1,0 +1,101 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWF1",
+  "name": {
+    "zh_CN": "OPPO Watch Free",
+    "en_US": "OPPO Watch Free"
+  },
+  "notice": {
+    "title": "入门方形手表",
+    "text": "Watch Free 1.64英寸AMOLED 5ATM"
+  },
+  "releaseDate": "2021",
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "46mm 标准版",
+      "model": "OWF1",
+      "images": [
+        "../res/Watch Free 46mm 标准版 无 NFC.png"
+      ],
+      "imagesText": "../res/Watch Free 46mm 标准版 无 NFC.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.64\" AMOLED"
+          ],
+          "detail": "1.64英寸AMOLED"
+        },
+        "battery": {
+          "specPreview": [
+            "长续航"
+          ],
+          "detail": "长续航"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0"
+          ],
+          "detail": "蓝牙5.0"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "心率 血氧 睡眠监测"
+        },
+        "body": {
+          "specPreview": [
+            "聚碳酸酯"
+          ],
+          "detail": "46mm"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    },
+    {
+      "sku_name": "46mm NFC版",
+      "model": "OWF1",
+      "images": [
+        "../res/Watch Free 46mm NFC 版 含 nfc.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "connectivity": {
+          "specPreview": [
+            "蓝牙5.0",
+            "NFC"
+          ],
+          "detail": "增加NFC"
+        },
+        "screenShape": "方形",
+        "deviceSource": [],
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,101 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWW231",
+  "name": {
+    "zh_CN": "OPPO Watch X2",
+    "en_US": "OPPO Watch X2"
+  },
+  "notice": {
+    "title": "旗舰健康手表",
+    "text": "Watch X2 ECG心电 高血压风险评估 钛合金表圈"
+  },
+  "releaseDate": "2025",
+  "sku": [
+    {
+      "sku_name": "墨石岩黑",
+      "model": "OWW231",
+      "images": [
+        "https://msecfs.opposhop.cn/commons-media-picture/GOODS/20250208/de90179a699500c86f77c3a9da2fc0e8487407171.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "1.5\" LTPO 钻石屏",
+            "2200尼特"
+          ],
+          "detail": "1.5英寸LTPO钻石屏 峰值亮度2200尼特"
+        },
+        "battery": {
+          "specPreview": [
+            "续航约5天",
+            "磁吸充电"
+          ],
+          "detail": "续航约5天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS",
+            "NFC",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS NFC eSIM独立通话"
+        },
+        "health": {
+          "specPreview": [
+            "ECG心电",
+            "心率",
+            "血氧",
+            "血压风险评估"
+          ],
+          "detail": "ECG心电监测 高血压风险评估 全天候血氧监测 60秒体检14项健康指标"
+        },
+        "sensors": {
+          "specPreview": [
+            "ECG心电",
+            "PPG心率",
+            "血氧传感器"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "100+运动模式"
+          ],
+          "detail": "100+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "钛合金表圈",
+            "蓝宝石水晶"
+          ],
+          "detail": "钛合金表圈 蓝宝石水晶表镜 NFC公交门禁"
+        },
+        "deviceSource": [],
+        "screenShape": "圆形",
+        "screenResolution": null,
+        "physicalButtons": null,
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+          
+        ]
+      }
+    }
+  ]
+}

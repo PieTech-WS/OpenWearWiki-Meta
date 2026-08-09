@@ -1,0 +1,67 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "OWSP1",
+  "name": {
+    "zh_CN": "OPPO Watch Sport",
+    "en_US": "OPPO Watch Sport"
+  },
+  "notice": {
+    "title": "运动智能手表",
+    "text": "Watch Sport 旗舰双芯 独立eSIM 双频GPS"
+  },
+  "releaseDate": null,
+  "deviceImage": null,
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "OWSP1",
+      "images": [
+        "../res/OPPO Watch Sport.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "oppo/coloros_watch",
+          "display": [
+            "ColorOS Watch"
+          ]
+        },
+        "display": {
+          "specPreview": [
+            "AMOLED"
+          ],
+          "detail": "AMOLED"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "Wi-Fi",
+            "双频GPS",
+            "eSIM"
+          ],
+          "detail": "蓝牙 Wi-Fi 双频GPS 独立eSIM"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧"
+          ],
+          "detail": "心率 血氧监测"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "旗舰双芯"
+        },
+        "deviceSource": [],
+        "screenShape": "方形",
+        "compatibility": [
+          "Android 6.0+",
+          "iOS 10.0+"
+        ]
+      }
+    }
+  ]
+}

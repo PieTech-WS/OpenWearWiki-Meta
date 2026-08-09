@@ -1,0 +1,42 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 9 Pro",
+    "en_US": "Xiaomi Smart Band 9 Pro"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb9p/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2401B1",
+      "images": [
+        "./resource/xiaomi-smartband-9pro-c1.png",
+        "./resource/xiaomi-smartband-9pro-c2.png",
+        "./resource/xiaomi-smartband-9pro-c3.png",
+        "./resource/xiaomi-smartband-9pro-c4.png"
+      ],
+      "imagesText": "./resource/xiaomi-smartband-9pro-c1.png\n./resource/xiaomi-smartband-9pro-c2.png\n./resource/xiaomi-smartband-9pro-c3.png\n./resource/xiaomi-smartband-9pro-c4.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 3.6)"]
+        },
+        "codename": "miwear.watch.n67cn",
+        "platform": "bestechnic/bes2700imp",
+        "storage": ["16MB RAM", "256MB ROM"],
+        "display": ["336*480 PX", "1.74\" AMOLED"],
+        "battery": "350mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+    }
+  }
+]
+}

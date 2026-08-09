@@ -1,0 +1,70 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "M2434B1",
+  "name": {
+    "zh_CN": "Redmi Band 3",
+    "en_US": "Redmi Band 3"
+  },
+  "device_type": "手环",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2434B1",
+      "images": [
+       "resource/rb3/黑色.png",
+       "resource/rb3/米色.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "frame_material": "纤维高强聚合物边框",
+        "display": {
+          "specPreview": [
+            "1.47\"",
+            "AMOLED"
+          ],
+          "detail": "表面为2.5d强化玻璃盖板，1.47英寸AMOLED屏幕，最高450nits，支持亮度自动调节与AOD息屏显示"
+        },
+        "screen_shape": "矩形",
+        "battery": {
+          "specPreview": [
+            "300mAh",
+            "磁吸充电"
+          ],
+          "detail": "300mAh 锂电池，充电接口为磁吸充电"
+        },
+        "platform": [
+          "ATS",
+          "ATS3085E"
+        ],
+        "storage": {
+          "specPreview": [
+            "1MB PSRAM",
+            "16MB"
+          ],
+          "detail": "运行内存 :1MB PSRAM 存储:16MB"
+        },
+        "water_resistance": "5ATM",
+        "sensors": {
+          "specPreview": [
+            "3项传感器"
+          ],
+          "detail": "加速度传感器,光学心率传感器,光学血氧传感器"
+        },
+        "positioning_support": "否",
+        "positioning": "无须作答",
+        "nfc": "否",
+        "bluetooth": "BT5.3",
+        "wifi_support": "否",
+        "wifi_detail": "不支持",
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": [
+            "Xiaomi HyperOS",
+            "(Vela)"
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "Amazfit GTR Mini",
+  "name": {
+    "zh_CN": "Amazfit GTR Mini",
+    "en_US": "Amazfit GTR Mini"
+  },
+  "notice": {
+    "title": "轻巧圆形手表",
+    "text": "GTR Mini 紧凑圆屏"
+  },
+  "deviceImage": "https://img-cdn.zepp.com/20230310/df4dde8c6d0b884020b610809191621d.png",
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "GTR Mini",
+      "images": [
+        "https://img-cdn.zepp.com/20230310/df4dde8c6d0b884020b610809191621d.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "zepp/zeppos_2",
+          "display": [
+            "Zepp OS 2"
+          ]
+        },
+        "apiLevel": {
+          "specPreview": [
+            "2.0.0"
+          ],
+          "detail": "Zepp OS 2.0.0 API 2.0.0"
+        },
+        "display": {
+          "specPreview": [
+            "416×416 PX",
+            "圆形AMOLED"
+          ],
+          "detail": "圆形AMOLED 416x416"
+        },
+        "battery": {
+          "specPreview": [
+            "超长续航",
+            "磁吸充电"
+          ],
+          "detail": "续航约14天"
+        },
+        "waterproof": {
+          "specPreview": [
+            "5ATM"
+          ],
+          "detail": "5ATM防水"
+        },
+        "connectivity": {
+          "specPreview": [
+            "蓝牙",
+            "GPS"
+          ],
+          "detail": "蓝牙 GPS"
+        },
+        "health": {
+          "specPreview": [
+            "心率",
+            "血氧",
+            "睡眠"
+          ],
+          "detail": "BioTracker PPG"
+        },
+        "sensors": {
+          "specPreview": [
+            "BioTracker PPG",
+            "加速度",
+            "陀螺仪"
+          ],
+          "detail": "多传感器"
+        },
+        "sports": {
+          "specPreview": [
+            "120+运动模式"
+          ],
+          "detail": "120+运动模式"
+        },
+        "body": {
+          "specPreview": [
+            "铝合金"
+          ],
+          "detail": "1个按键"
+        },
+        "screenShape": "圆形",
+        "screenResolution": {
+          "width": 416,
+          "height": 416
+        },
+        "watchFacePreviewResolution": {
+          "width": 280,
+          "height": 280
+        },
+        "physicalButtons": 1,
+        "compatibility": [
+          "Android 7.0+",
+          "iOS 14.0+"
+        ]
+      }
+    }
+  ]
+}

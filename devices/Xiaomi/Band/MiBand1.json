@@ -1,0 +1,58 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Mi Band 1",
+    "en_US": "Mi Band 1"
+},
+  "sku": [
+    {
+      "sku_name": "彩灯版",
+      "model": "XMSH01HM",
+      "images": [
+       "./resource/小米手环彩灯版.png"
+      ],
+     "imagesText": "./resource/小米手环彩灯版.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "platform": "Dialog DA14580",
+        "storage": ["外置华邦W25Q80BV SPI Flash (1MB/8Mbit)"],
+        "battery": "41mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "IP67"
+      }
+    },
+    {
+      "sku_name": "光感版",
+      "model": "XMSH02HM",
+      "images": [
+       "./resource/小米手环光感版.png"
+      ],
+      "imagesText": "./resource/小米手环光感版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "platform": "Dialog DA14580",
+        "storage": ["外置华邦W25Q80BV SPI Flash (1MB/8Mbit)"],
+        "battery": "45mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "IP67"
+      }
+      },
+    {
+      "sku_name": "标准版",
+      "model": "XMSH03HM",
+      "images": [
+       "./resource/小米手环标准版.png"
+      ],
+      "imagesText": "./resource/小米手环标准版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "platform": "Dialog DA14580",
+        "storage": ["外置华邦W25Q80BV SPI Flash (1MB/8Mbit)"],
+        "battery": "45mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "IP67"
+      }
+    }
+  ]
+}

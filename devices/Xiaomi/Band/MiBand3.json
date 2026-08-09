@@ -1,0 +1,53 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Mi Band 3",
+    "en_US": "Mi Band 3"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb3/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "XMSH05HM",
+      "images": [
+         "./resource/小米手环3.png"
+      ],
+      "imagesText": "./resource/小米手环3.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "platform": "Dialog DA14681",
+        "storage": ["GigaDevice GD25LQ32 4MB Flash"],
+        "display": ["128*80", "0.78\" AMOLED"],
+        "battery": "110mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "XMSH06HM",
+      "images": [
+       "./resource/小米手环 3 NFC.png"
+      ],
+      "imagesText": "./resource/小米手环 3 NFC.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "platform": "Dialog DA14681",
+        "storage": ["GigaDevice GD25LQ32 4MB Flash"],
+        "display": ["128*80", "0.78\" AMOLED"],
+        "battery": "110mAh",
+        "connectivity": "Bluetooth 4.2",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

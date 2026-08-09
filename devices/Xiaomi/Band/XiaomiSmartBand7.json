@@ -1,0 +1,59 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 7 ",
+    "en_US": "Xiaomi Smart Band 7 "
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb7/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2130B1",
+      "images": [
+        "./resource/小米手环7 黑.png",
+        "./resource/小米手环7 蓝.png",
+        "./resource/小米手环7 粉.png"
+      ],
+      "imagesText": "./resource/小米手环7 黑.png\n./resource/小米手环7 蓝.png\n./resource/小米手环7 粉.png\n",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "Zepp OS",
+        "codename": "hmpace.watch.v7(l66)",
+        "platform": "Dialog 14706",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "180mAh",
+        "connectivity": "Bluetooth 5.2",
+        "atm": "5ATM"
+    }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "M2303B1",
+      "images": [
+        "./resource/小米手环7 黑.png",
+        "./resource/小米手环7 蓝.png",
+        "./resource/小米手环7 粉.png"
+      ],
+      "imagesText": "./resource/小米手环7 黑.png\n./resource/小米手环7 蓝.png\n./resource/小米手环7 粉.png\n",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "hmpace.watch.v7nfc(l66nfc)",
+        "os": "Zepp OS",
+        "platform": "Dialog DA14706",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["192*490 PX", "1.62\" AMOLED"],
+        "battery": "180mAh",
+        "connectivity": "Bluetooth 5.2",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

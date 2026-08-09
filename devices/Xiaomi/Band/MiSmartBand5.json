@@ -1,0 +1,55 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Mi Smart Band 5",
+    "en_US": "Mi Smart Band 5"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb5/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "XMSH10HM",
+      "images": [
+         "./resource/小米手环 5.png"
+      ],
+      "imagesText": "./resource/小米手环 5.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "codename": "hmpace.bracelet.v5h",
+        "platform": "Dialog DA14697",
+        "storage": ["512KB RAM", "16MB ROM"],
+        "display": ["126*294", "1.1\" AMOLED"],
+        "battery": "125mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "XMSH11HM",
+      "images": [
+       "./resource/小米手环 5.png"
+      ],
+      "imagesText": "./resource/小米手环 5.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": "Dialog Semiconductor RTOS",
+        "codename": "hmpace.bracelet.v5",
+        "platform": "Dialog DA14697",
+        "storage": ["512KB RAM", "16MB ROM"],
+        "display": ["126*294", "1.1\" AMOLED"],
+        "battery": "125mAh",
+        "connectivity": "Bluetooth 5.0",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

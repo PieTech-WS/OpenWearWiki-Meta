@@ -1,0 +1,41 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI Watch 6",
+    "en_US": "REDMI Watch 6"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/246/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "蓝牙版",
+      "model": "M2523W1",
+      "images": [
+        "resource/rw6/M2523W1_蓝牙版_1.png",
+        "resource/rw6/M2523W1_蓝牙版_2.png",
+        "resource/rw6/M2523W1_蓝牙版_3.png"
+      ],
+      "imagesText": "resource/rw6/M2523W1_蓝牙版_1.png\nresource/rw6/M2523W1_蓝牙版_2.png\nresource/rw6/M2523W1_蓝牙版_3.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "miwear.watch.p65",
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "platform": "bestechnic/bes2710ibp",
+        "storage": ["32MB RAM", "512MB ROM"],
+        "display": ["432*514 PX", "2.07\" AMOLED"],
+        "battery": "550mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}
