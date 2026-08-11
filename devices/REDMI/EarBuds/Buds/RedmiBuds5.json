@@ -10,11 +10,10 @@
       "sku_name": "Buds 5 标准版",
       "model": "M2320E1",
       "images": [
-        "resource/redmi_buds5子夜黑.png",
-        "resource/redmi_buds5晴雪白.png",
-        "resource/redmi_buds5香芋紫.png"
+        "../resource/redmi_buds5子夜黑.png",
+        "../resource/redmi_buds5晴雪白.png",
+        "../resource/redmi_buds5香芋紫.png"
       ],
-      "imagesText": "resource/redmi_buds5子夜黑.png\nresource/redmi_buds5晴雪白.png\nresource/redmi_buds5香芋紫.png",
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.buds.v5",
@@ -31,11 +30,10 @@
       "sku_name": "Buds 5 Pro",
       "model": "M2321E1",
       "images": [
-        "resource/redmi_buds5pro晴雪白.png",
-        "resource/redmi_buds5pro冰瓷蓝.png",
-        "resource/redmi_buds5pro曜石黑.png"
+        "../resource/redmi_buds5pro晴雪白.png",
+        "../resource/redmi_buds5pro冰瓷蓝.png",
+        "../resource/redmi_buds5pro曜石黑.png"
       ],
-      "imagesText": "resource/redmi_buds5pro晴雪白.png\nresource/redmi_buds5pro冰瓷蓝.png\nresource/redmi_buds5pro曜石黑.png",
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.5.pro",
@@ -51,8 +49,7 @@
     {
       "sku_name": "Buds 5 Pro 电竞版",
       "model": "M2321E1",
-      "images": ["resource/redmi_buds5pro_esport电竞版.png"],
-      "imagesText": "resource/redmi_buds5pro_esport电竞版.png",
+      "images": "../resource/redmi_buds5pro_esport电竞版.png",
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.5.pro.esport",
@@ -69,8 +66,7 @@
     {
       "sku_name": "Buds 5 Pro AAPE 潮流限定版",
       "model": "M2321E1",
-      "images": ["resource/redmi_buds5pro_aapeAAPE限定版.png"],
-      "imagesText": "resource/redmi_buds5pro_aapeAAPE限定版.png",
+      "images": "../resource/redmi_buds5pro_aapeAAPE限定版.png",
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.5.pro.aape",

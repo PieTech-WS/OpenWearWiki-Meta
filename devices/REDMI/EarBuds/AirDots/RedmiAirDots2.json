@@ -9,8 +9,7 @@
     {
       "sku_name": "AirDots 2",
       "model": "TWSEJ06LS",
-      "images": ["resource/redmi_airdots2黑色.png"],
-      "imagesText": "resource/redmi_airdots2黑色.png",
+      "images": "../resource/redmi_airdots2黑色.png",
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.airdots.v2",

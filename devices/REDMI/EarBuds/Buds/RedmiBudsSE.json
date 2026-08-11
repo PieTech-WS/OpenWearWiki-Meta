@@ -10,12 +10,11 @@
       "sku_name": "Buds SE 标准版",
       "model": "M2226E1",
       "images": [
-        "resource/redmi_buds_se云水蓝.png",
-        "resource/redmi_buds_se子夜黑.png",
-        "resource/redmi_buds_se晴雪白.png",
-        "resource/redmi_buds_se蔷薇粉.png"
+        "../resource/redmi_buds_se云水蓝.png",
+        "../resource/redmi_buds_se子夜黑.png",
+        "../resource/redmi_buds_se晴雪白.png",
+        "../resource/redmi_buds_se蔷薇粉.png"
       ],
-      "imagesText": "resource/redmi_buds_se云水蓝.png\nresource/redmi_buds_se子夜黑.png\nresource/redmi_buds_se晴雪白.png\nresource/redmi_buds_se蔷薇粉.png",
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.buds.se",

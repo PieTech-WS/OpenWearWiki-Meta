@@ -9,8 +9,7 @@
     {
       "sku_name": "标准版",
       "model": "M2502E1",
-      "images": ["resource/redmi_headphones黑色.png"],
-      "imagesText": "resource/redmi_headphones黑色.png",
+      "images": ["../resource/redmi_headphones黑色.png"],
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.headphones.nc",
