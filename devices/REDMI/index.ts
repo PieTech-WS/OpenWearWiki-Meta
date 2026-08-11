@@ -53,52 +53,52 @@ export default [
     items: [
       {
         text: "Redmi AirDots",
-        link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots",
+        link: "/ProductWiki/devices/REDMI/EarBuds/AirDots/RedmiAirDots",
       },
       {
         text: "Redmi AirDots S",
-        link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDotsS",
+        link: "/ProductWiki/devices/REDMI/EarBuds/AirDots/RedmiAirDotsS",
 
       },
       {
         text: "Redmi AirDots 2",
-        link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots2",
+        link: "/ProductWiki/devices/REDMI/EarBuds/AirDots/RedmiAirDots2",
       },
       {
         text: "Redmi AirDots 3",
-        link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots3",
+        link: "/ProductWiki/devices/REDMI/EarBuds/AirDots/RedmiAirDots3",
      },
      {
        text: "Redmi Buds 3",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds3",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds3",
      },
      {
        text: "Redmi Buds 4",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds4",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds4",
     },
     {
        text: "REDMI Buds 5",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds5",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds5",
     },
     {
        text: "REDMI Buds SE",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBudsSE",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBudsSE",
     },
     {
        text: "REDMI Buds 6",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds6",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds6",
     },
     {
        text: "REDMI Buds 7S",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds7S",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds7S",
     },
     {
        text: "REDMI 头戴降噪耳机",
-       link: "/ProductWiki/devices/REDMI/Headphones/RedmiHeadphones",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Headphones/RedmiHeadphones",
     },
     {
        text: "REDMI Buds 8",
-       link: "/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds8",
+       link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds8",
     }, 
    ]
   }
