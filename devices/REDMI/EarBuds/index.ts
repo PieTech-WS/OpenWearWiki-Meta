@@ -1,19 +1,19 @@
 export default [
   {
     text: "Redmi AirDots",
-    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots",
+    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots",
   },
   {
     text: "Redmi AirDots S",
-    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDotsS",
+    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDotsS",
   },
   {
     text: "Redmi AirDots 2",
-    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots2",
+    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots2",
   },
   {
     text: "Redmi AirDots 3",
-    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots3",
+    link: "/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots3",
   },
   {
     text: "Redmi Buds 3",

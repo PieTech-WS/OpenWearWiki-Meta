@@ -16,11 +16,11 @@
 | [Redmi Band](/ProductWiki/devices/REDMI/Band/Redmi_Band) |
 
 ## Earbuds
-[Redmi AirDots](/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots)
+[Redmi AirDots](/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots)
 | ----- |
-[Redmi AirDots S](/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDotsS)
-[Redmi AirDots 2](/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots2)
-[Redmi AirDots 3](/ProductWiki/devices/REDMI/Earbuds/AirDots/AirDots3)
+[Redmi AirDots S](/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDotsS)
+[Redmi AirDots 2](/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots2)
+[Redmi AirDots 3](/ProductWiki/devices/REDMI/Earbuds/AirDots/RedmiAirDots3)
 [Redmi Buds 3](/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds3)
 [Redmi Buds 4](/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds4)
 [REDMI Buds 5](/ProductWiki/devices/REDMI/Earbuds/Buds/RedmiBuds5)
