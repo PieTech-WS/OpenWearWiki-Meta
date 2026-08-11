@@ -1,0 +1,52 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Buds 3",
+    "en_US": "Redmi Buds 3"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds 3 标准版",
+      "model": "M2104E1",
+      "images": [
+        "resource/redmi_buds3流光白.png",
+        "resource/redmi_buds3湖光蓝.png",
+        "resource/redmi_buds3曜石黑.png",
+        "resource/redmi_buds3极光绿.png"
+      ],
+      "imagesText": "resource/redmi_buds3流光白.png\nresource/redmi_buds3湖光蓝.png\nresource/redmi_buds3曜石黑.png\nresource/redmi_buds3极光绿.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.v3",
+        "type": "半入耳式",
+        "driver": "12mm 动圈",
+        "platform": "高通 QCC3040",
+        "bluetooth": "Bluetooth 5.2",
+        "anc": "不支持",
+        "battery": "单耳 5h / 综合续航 20h",
+        "codec": "SBC / AAC / aptX Adaptive",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 3 青春版",
+      "model": "M2110E1",
+      "images": [
+        "resource/redmi_buds3_youth黑色.png"
+      ],
+      "imagesText": "resource/redmi_buds3_youth黑色.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.3.youth",
+        "type": "入耳式",
+        "driver": "动圈",
+        "bluetooth": "Bluetooth 5.2",
+        "anc": "不支持",
+        "battery": "单耳 5h / 综合续航 18h",
+        "codec": "SBC / AAC",
+        "ip_rating": "IP54"
+      }
+    }
+  ]
+}

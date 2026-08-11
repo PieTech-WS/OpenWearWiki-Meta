@@ -1,0 +1,87 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI Buds 5",
+    "en_US": "REDMI Buds 5"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds 5 标准版",
+      "model": "M2320E1",
+      "images": [
+        "resource/redmi_buds5子夜黑.png",
+        "resource/redmi_buds5晴雪白.png",
+        "resource/redmi_buds5香芋紫.png"
+      ],
+      "imagesText": "resource/redmi_buds5子夜黑.png\nresource/redmi_buds5晴雪白.png\nresource/redmi_buds5香芋紫.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.v5",
+        "type": "入耳式",
+        "driver": "12.4mm 动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 46dB",
+        "battery": "单耳 10h / 综合续航 40h",
+        "codec": "SBC / AAC / LHDC",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 5 Pro",
+      "model": "M2321E1",
+      "images": [
+        "resource/redmi_buds5pro晴雪白.png",
+        "resource/redmi_buds5pro冰瓷蓝.png",
+        "resource/redmi_buds5pro曜石黑.png"
+      ],
+      "imagesText": "resource/redmi_buds5pro晴雪白.png\nresource/redmi_buds5pro冰瓷蓝.png\nresource/redmi_buds5pro曜石黑.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.5.pro",
+        "type": "入耳式",
+        "driver": "11mm 镀钛低音 + 10mm 压电陶瓷高音 双单元",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 52dB",
+        "battery": "单耳 6h / 综合续航 38h",
+        "codec": "SBC / AAC / LHDC 5.0",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 5 Pro 电竞版",
+      "model": "M2321E1",
+      "images": ["resource/redmi_buds5pro_esport电竞版.png"],
+      "imagesText": "resource/redmi_buds5pro_esport电竞版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.5.pro.esport",
+        "type": "入耳式",
+        "driver": "11mm 镀钛低音 + 10mm 压电陶瓷高音 双单元",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 52dB",
+        "battery": "单耳 6h / 综合续航 38h",
+        "codec": "SBC / AAC / LHDC 5.0",
+        "latency": "20ms 全链路",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 5 Pro AAPE 潮流限定版",
+      "model": "M2321E1",
+      "images": ["resource/redmi_buds5pro_aapeAAPE限定版.png"],
+      "imagesText": "resource/redmi_buds5pro_aapeAAPE限定版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.5.pro.aape",
+        "type": "入耳式",
+        "driver": "11mm 镀钛低音 + 10mm 压电陶瓷高音 双单元",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 52dB",
+        "battery": "单耳 6h / 综合续航 38h",
+        "codec": "SBC / AAC / LHDC 5.0",
+        "ip_rating": "IP54"
+      }
+    }
+  ]
+}

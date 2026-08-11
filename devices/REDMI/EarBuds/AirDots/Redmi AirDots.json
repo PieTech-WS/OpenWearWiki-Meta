@@ -1,0 +1,26 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi AirDots",
+    "en_US": "Redmi AirDots"
+  },
+  "sku": [
+    {
+      "sku_name": "AirDots 标准版",
+      "model": "TWSEJ04LS",
+      "images": ["resource/redmi_airdots黑色.png"],
+      "imagesText": "resource/redmi_airdots黑色.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.airdots.v1",
+        "driver": "7.2mm 动圈",
+        "bluetooth": "Bluetooth 5.0",
+        "anc": "不支持",
+        "battery": "单耳 4h / 充电盒 12h",
+        "codec": "SBC / AAC",
+        "ip_rating": "IPX4"
+      }
+    }
+  ]
+}

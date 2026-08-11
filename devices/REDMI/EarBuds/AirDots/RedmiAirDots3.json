@@ -1,0 +1,51 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi AirDots 3",
+    "en_US": "Redmi AirDots 3"
+  },
+  "sku": [
+    {
+      "sku_name": "AirDots 3 标准版",
+      "model": "TWSEJ09WM",
+      "images": [
+        "resource/redmi_airdots3蓝色.png",
+        "resource/redmi_airdots3白色.png",
+        "resource/redmi_airdots3粉色.png"
+      ],
+      "imagesText": "resource/redmi_airdots3蓝色.png\nresource/redmi_airdots3白色.png\nresource/redmi_airdots3粉色.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.airdots.v3",
+        "driver": "动圈 + 动铁双单元",
+        "bluetooth": "Bluetooth 5.2",
+        "anc": "不支持",
+        "battery": "单耳 7h / 综合续航 30h",
+        "codec": "SBC / AAC / aptX Adaptive",
+        "ip_rating": "IPX4"
+      }
+    },
+    {
+      "sku_name": "AirDots 3 Pro",
+      "model": "TWSEJ10WM",
+      "images": [
+        "resource/redmi_airdots3pro曜石黑.png",
+        "resource/redmi_airdots3pro冰晶灰.png"
+      ],
+      "imagesText": "resource/redmi_airdots3pro曜石黑.png\nresource/redmi_airdots3pro冰晶灰.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.airdots.3pro",
+        "driver": "动圈 + 动铁双单元",
+        "bluetooth": "Bluetooth 5.2",
+        "anc": "支持 主动降噪 35dB",
+        "battery": "单耳 6h / 综合续航 28h",
+        "codec": "SBC / AAC / aptX Adaptive",
+        "latency": "69ms",
+        "ip_rating": "IPX4",
+        "wireless_charging": "支持"
+      }
+    }
+  ]
+}

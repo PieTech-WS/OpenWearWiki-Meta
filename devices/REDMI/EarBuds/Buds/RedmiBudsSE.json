@@ -1,0 +1,33 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Buds SE",
+    "en_US": "Redmi Buds SE"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds SE 标准版",
+      "model": "M2226E1",
+      "images": [
+        "resource/redmi_buds_se云水蓝.png",
+        "resource/redmi_buds_se子夜黑.png",
+        "resource/redmi_buds_se晴雪白.png",
+        "resource/redmi_buds_se蔷薇粉.png"
+      ],
+      "imagesText": "resource/redmi_buds_se云水蓝.png\nresource/redmi_buds_se子夜黑.png\nresource/redmi_buds_se晴雪白.png\nresource/redmi_buds_se蔷薇粉.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.se",
+        "type": "入耳式",
+        "driver": "动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "不支持",
+        "battery": "综合续航 20h",
+        "codec": "SBC / AAC",
+        "charging": "Type-C",
+        "ip_rating": "IPX4"
+      }
+    }
+  ]
+}

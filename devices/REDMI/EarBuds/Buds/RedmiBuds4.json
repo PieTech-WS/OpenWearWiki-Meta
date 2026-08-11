@@ -1,0 +1,114 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Redmi Buds 4",
+    "en_US": "Redmi Buds 4"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds 4 标准版",
+      "model": "M2213E1",
+      "images": [
+        "resource/redmi_buds4白色.png",
+        "resource/redmi_buds4黑色.png",
+        "resource/redmi_buds4浅蓝色.png"
+      ],
+      "imagesText": "resource/redmi_buds4白色.png\nresource/redmi_buds4黑色.png\nresource/redmi_buds4浅蓝色.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.v4",
+        "type": "入耳式",
+        "driver": "10mm 动圈",
+        "bluetooth": "Bluetooth 5.2",
+        "anc": "支持 主动降噪 35dB",
+        "battery": "单耳 6h / 综合续航 30h",
+        "codec": "SBC / AAC",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 4 活力版",
+      "model": "M2232E1",
+      "images": [
+        "resource/redmi_buds4_active黑色.png",
+        "resource/redmi_buds4_active白色.png"
+      ],
+      "imagesText": "resource/redmi_buds4_active黑色.png\nresource/redmi_buds4_active白色.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.4.active",
+        "type": "入耳式",
+        "driver": "12mm 动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "不支持",
+        "battery": "综合续航 20h",
+        "codec": "SBC / AAC",
+        "charging": "Type-C",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 4 青春版",
+      "model": "M2233E1",
+      "images": [
+        "resource/redmi_buds4_youth晴雪白.png",
+        "resource/redmi_buds4_youth子夜黑.png",
+        "resource/redmi_buds4_youth落日橙.png",
+        "resource/redmi_buds4_youth潮流绿.png"
+      ],
+      "imagesText": "resource/redmi_buds4_youth晴雪白.png\nresource/redmi_buds4_youth子夜黑.png\nresource/redmi_buds4_youth落日橙.png\nresource/redmi_buds4_youth潮流绿.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.4.youth",
+        "type": "入耳式",
+        "driver": "12.2mm 动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "不支持",
+        "battery": "单耳 5h / 综合续航 20h",
+        "codec": "SBC / AAC",
+        "weight": "3.9g 单耳",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 4 Pro",
+      "model": "M2214E1",
+      "images": [
+        "resource/redmi_buds4pro镜湖白.png",
+        "resource/redmi_buds4pro极夜黑.png"
+      ],
+      "imagesText": "resource/redmi_buds4pro镜湖白.png\nresource/redmi_buds4pro极夜黑.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.4.pro",
+        "type": "入耳式",
+        "driver": "10mm 动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 43dB",
+        "battery": "单耳 9h / 综合续航 36h",
+        "codec": "SBC / AAC / LC3",
+        "latency": "59ms",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 4 Pro 哈利·波特版",
+      "model": "M2214E1",
+      "images": ["resource/redmi_buds4pro_hp哈利波特版.png"],
+      "imagesText": "resource/redmi_buds4pro_hp哈利波特版.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.4.pro.hp",
+        "type": "入耳式",
+        "driver": "10mm 动圈",
+        "bluetooth": "Bluetooth 5.3",
+        "anc": "支持 主动降噪 43dB",
+        "battery": "单耳 9h / 综合续航 36h",
+        "codec": "SBC / AAC / LC3",
+        "latency": "59ms",
+        "ip_rating": "IP54"
+      }
+    }
+  ]
+}

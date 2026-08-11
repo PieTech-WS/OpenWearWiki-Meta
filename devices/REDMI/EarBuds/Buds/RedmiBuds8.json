@@ -1,0 +1,78 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI Buds 8",
+    "en_US": "REDMI Buds 8"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds 8 活力版",
+      "model": "M2603E1",
+      "images": [
+        "resource/redmi_buds8_active雅黑.png",
+        "resource/redmi_buds8_active奶白.png",
+        "resource/redmi_buds8_active透蓝.png"
+      ],
+      "imagesText": "resource/redmi_buds8_active雅黑.png\nresource/redmi_buds8_active奶白.png\nresource/redmi_buds8_active透蓝.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.8.active",
+        "type": "半入耳式",
+        "driver": "14.2mm 镀钛动圈",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "不支持",
+        "battery": "综合续航 37h",
+        "codec": "SBC / AAC",
+        "call_noise_cancellation": "双麦 AI 通话降噪",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 8 标准版",
+      "model": "M2601E1",
+      "images": [
+        "resource/redmi_buds8脂白.png",
+        "resource/redmi_buds8暮黑.png",
+        "resource/redmi_buds8萃青.png"
+      ],
+      "imagesText": "resource/redmi_buds8脂白.png\nresource/redmi_buds8暮黑.png\nresource/redmi_buds8萃青.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.v8",
+        "type": "入耳式",
+        "driver": "11mm 高性能动圈",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "支持 主动降噪 50dB 4kHz 宽频",
+        "battery": "综合续航 36h",
+        "codec": "SBC / AAC",
+        "call_noise_cancellation": "三麦 AI 通话降噪",
+        "dual_device": "支持 双设备连接",
+        "charging_case": "立式充电盒 云隙光灯效 2.0",
+        "ip_rating": "IP54"
+      }
+    },
+    {
+      "sku_name": "Buds 8 Pro",
+      "model": "M2602E1",
+      "images": [
+        "resource/redmi_buds8pro冰釉白.png",
+        "resource/redmi_buds8pro玄悟黑.png",
+        "resource/redmi_buds8pro薄雾蓝.png"
+      ],
+      "imagesText": "resource/redmi_buds8pro冰釉白.png\nresource/redmi_buds8pro玄悟黑.png\nresource/redmi_buds8pro薄雾蓝.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "redmi.buds.8.pro",
+        "type": "入耳式",
+        "driver": "圈瓷同轴三单元",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "支持 智能无级降噪 55dB",
+        "battery": "综合续航 38h",
+        "codec": "SBC / AAC / LDAC",
+        "dual_device": "支持 双设备连接",
+        "ip_rating": "IP54"
+      }
+    }
+  ]
+}

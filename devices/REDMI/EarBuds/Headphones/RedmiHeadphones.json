@@ -1,0 +1,27 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI 头戴降噪耳机",
+    "en_US": "REDMI Headphones Noise Cancelling"
+  },
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2502E1",
+      "images": ["resource/redmi_headphones黑色.png"],
+      "imagesText": "resource/redmi_headphones黑色.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.headphones.nc",
+        "type": "头戴式",
+        "driver": "40mm 动圈",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "支持 主动降噪",
+        "battery": "续航 54h（降噪开启）",
+        "codec": "SBC / AAC",
+        "charging": "Type-C"
+      }
+    }
+  ]
+}

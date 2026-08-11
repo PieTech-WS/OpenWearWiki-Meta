@@ -1,0 +1,31 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "REDMI Buds 7",
+    "en_US": "REDMI Buds 7"
+  },
+  "sku": [
+    {
+      "sku_name": "Buds 7S",
+      "model": "M2501E1",
+      "images": [
+        "resource/redmi_buds7s晴雪白.png",
+        "resource/redmi_buds7s浅湖青.png",
+        "resource/redmi_buds7s子夜黑.png"
+      ],
+      "imagesText": "resource/redmi_buds7s晴雪白.png\nresource/redmi_buds7s浅湖青.png\nresource/redmi_buds7s子夜黑.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "codename": "redmi.buds.7s",
+        "type": "半入耳式",
+        "driver": "12.4mm 镀钛 + 5.5mm 微压电陶瓷 双单元",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "支持 两档降噪",
+        "battery": "综合续航 32h",
+        "codec": "SBC / AAC / LHDC",
+        "ip_rating": "IP54"
+      }
+    }
+  ]
+}
