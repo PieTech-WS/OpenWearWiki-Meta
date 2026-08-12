@@ -9,7 +9,7 @@
     {
       "sku_name": "AirDots 标准版",
       "model": "TWSEJ04LS",
-      "images": "../resource/redmi_airdots黑色.png",
+      "images": "./resource/redmi_airdots黑色.png",
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.airdots.v1",
