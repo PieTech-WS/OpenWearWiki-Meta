@@ -10,9 +10,9 @@
       "sku_name": "Buds 7S",
       "model": "M2501E1",
       "images": [
-        "../resource/redmi_buds7s晴雪白.png",
-        "../resource/redmi_buds7s浅湖青.png",
-        "../resource/redmi_buds7s子夜黑.png"
+        "resource/redmi_buds7s晴雪白.png",
+        "resource/redmi_buds7s浅湖青.png",
+        "resource/redmi_buds7s子夜黑.png"
       ],
       "setAsNormalSKU": true,
       "specs": {

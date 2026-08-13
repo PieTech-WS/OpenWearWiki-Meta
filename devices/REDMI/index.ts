@@ -93,10 +93,6 @@ export default [
        link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds7S",
     },
     {
-       text: "REDMI 头戴降噪耳机",
-       link: "/ProductWiki/devices/REDMI/EarBuds/Headphones/RedmiHeadphones",
-    },
-    {
        text: "REDMI Buds 8",
        link: "/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds8",
     }, 

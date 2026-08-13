@@ -27,5 +27,4 @@
 | [REDMI Buds SE](/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBudsSE)|
 | [REDMI Buds 6](/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds6) |
 | [REDMI Buds 7S](/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds7S) |
-| [REDMI 头戴降噪耳机](/ProductWiki/devices/REDMI/EarBuds/Headphones/RedmiHeadphones) |
 | [REDMI Buds 8](/ProductWiki/devices/REDMI/EarBuds/Buds/RedmiBuds8) |

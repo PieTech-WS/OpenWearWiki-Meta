@@ -66,7 +66,9 @@
     {
       "sku_name": "Buds 5 Pro AAPE 潮流限定版",
       "model": "M2321E1",
-      "images": "../resource/redmi_buds5pro_aapeAAPE限定版.png",
+      "images": [
+      "resource/redmi_buds5pro_aapeAAPE限定版.png"
+      ],
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.5.pro.aape",

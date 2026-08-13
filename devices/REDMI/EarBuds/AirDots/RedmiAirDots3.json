@@ -10,9 +10,9 @@
       "sku_name": "AirDots 3 标准版",
       "model": "TWSEJ09WM",
       "images": [
-        "../resource/redmi_airdots3蓝色.png",
-        "../resource/redmi_airdots3白色.png",
-        "../resource/redmi_airdots3粉色.png"
+        "resource/redmi_airdots3蓝色.png",
+        "resource/redmi_airdots3白色.png",
+        "resource/redmi_airdots3粉色.png"
       ],
       "setAsNormalSKU": true,
       "specs": {
@@ -29,8 +29,8 @@
       "sku_name": "AirDots 3 Pro",
       "model": "TWSEJ10WM",
       "images": [
-        "../resource/redmi_airdots3pro曜石黑.png",
-        "../resource/redmi_airdots3pro冰晶灰.png"
+        "resource/redmi_airdots3pro曜石黑.png",
+        "resource/redmi_airdots3pro冰晶灰.png"
       ],
       "setAsNormalSKU": false,
       "specs": {

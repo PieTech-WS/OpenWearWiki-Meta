@@ -9,7 +9,9 @@
     {
       "sku_name": "AirDots S",
       "model": "TWSEJ05LS",
-      "images": "../resource/redmi_airdots_s黑色.png",
+      "images": [
+       "resource/redmi_airdots_s黑色.png"
+      ],
       "setAsNormalSKU": true,
       "specs": {
         "codename": "redmi.airdots.s",

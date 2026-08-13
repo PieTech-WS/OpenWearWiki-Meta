@@ -10,9 +10,9 @@
       "sku_name": "Buds 6 活力版",
       "model": "M2403E1",
       "images": [
-        "../resource/redmi_buds6_active黑色.png",
-        "../resource/redmi_buds6_active白色.png",
-        "../resource/redmi_buds6_active蓝色.png"
+        "resource/redmi_buds6_active黑色.png",
+        "resource/redmi_buds6_active白色.png",
+        "resource/redmi_buds6_active蓝色.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -30,9 +30,9 @@
       "sku_name": "Buds 6S",
       "model": "M2404E1",
       "images": [
-        "../resource/redmi_buds6s子夜黑.png",
-        "../resource/redmi_buds6s晴雪白.png",
-        "../resource/redmi_buds6s星海蓝.png"
+        "resource/redmi_buds6s子夜黑.png",
+        "resource/redmi_buds6s晴雪白.png",
+        "resource/redmi_buds6s星海蓝.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -50,9 +50,9 @@
       "sku_name": "Buds 6 青春版",
       "model": "M2405E1",
       "images": [
-        "../resource/redmi_buds6_youth晴雪白.png",
-        "../resource/redmi_buds6_youth子夜黑.png",
-        "../resource/redmi_buds6_youth云雾蓝.png"
+        "resource/redmi_buds6_youth晴雪白.png",
+        "resource/redmi_buds6_youth子夜黑.png",
+        "resource/redmi_buds6_youth云雾蓝.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -70,9 +70,9 @@
       "sku_name": "Buds 6 标准版",
       "model": "M2401E1",
       "images": [
-        "../resource/redmi_buds6晴雪白.png",
-        "../resource/redmi_buds6竹昀青.png",
-        "../resource/redmi_buds6子夜黑.png"
+        "resource/redmi_buds6晴雪白.png",
+        "resource/redmi_buds6竹昀青.png",
+        "resource/redmi_buds6子夜黑.png"
       ],
       "setAsNormalSKU": true,
       "specs": {
@@ -90,10 +90,10 @@
       "sku_name": "Buds 6 Pro",
       "model": "M2402E1",
       "images": [
-        "../resource/redmi_buds6pro玄悟黑.png",
-        "../resource/redmi_buds6pro冰釉白.png",
-        "../resource/redmi_buds6pro潮流版.png",
-        "../resource/redmi_buds6pro润玉绿.png"
+        "resource/redmi_buds6pro玄悟黑.png",
+        "resource/redmi_buds6pro冰釉白.png",
+        "resource/redmi_buds6pro潮流版.png",
+        "resource/redmi_buds6pro润玉绿.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -110,7 +110,9 @@
     {
       "sku_name": "Buds 6 Pro 电竞版",
       "model": "M2402E1",
-      "images": "../resource/redmi_buds6pro_esport电竞版.png",
+      "images": [
+        "resource/redmi_buds6pro_esport电竞版.png"
+    ],
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.6.pro.esport",

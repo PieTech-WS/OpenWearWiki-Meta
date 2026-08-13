@@ -10,9 +10,9 @@
       "sku_name": "Buds 8 活力版",
       "model": "M2603E1",
       "images": [
-        "../resource/redmi_buds8_active雅黑.png",
-        "../resource/redmi_buds8_active奶白.png",
-        "../resource/redmi_buds8_active透蓝.png"
+        "resource/redmi_buds8_active雅黑.png",
+        "resource/redmi_buds8_active奶白.png",
+        "resource/redmi_buds8_active透蓝.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -31,9 +31,9 @@
       "sku_name": "Buds 8 标准版",
       "model": "M2601E1",
       "images": [
-        "../resource/redmi_buds8脂白.png",
-        "../resource/redmi_buds8暮黑.png",
-        "../resource/redmi_buds8萃青.png"
+        "resource/redmi_buds8脂白.png",
+        "resource/redmi_buds8暮黑.png",
+        "resource/redmi_buds8萃青.png"
       ],
       "setAsNormalSKU": true,
       "specs": {
@@ -54,9 +54,9 @@
       "sku_name": "Buds 8 Pro",
       "model": "M2602E1",
       "images": [
-        "../resource/redmi_buds8pro冰釉白.png",
-        "../resource/redmi_buds8pro玄悟黑.png",
-        "../resource/redmi_buds8pro薄雾蓝.png"
+        "resource/redmi_buds8pro冰釉白.png",
+        "resource/redmi_buds8pro玄悟黑.png",
+        "resource/redmi_buds8pro薄雾蓝.png"
       ],
       "setAsNormalSKU": false,
       "specs": {

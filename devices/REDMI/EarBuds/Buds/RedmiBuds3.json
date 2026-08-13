@@ -10,10 +10,10 @@
       "sku_name": "Buds 3 标准版",
       "model": "M2104E1",
       "images": [
-        "../devices/REDMI/EarBuds/resource/redmi_buds3流光白.png",
-        "../devices/REDMI/EarBuds/resource/redmi_buds3湖光蓝.png",
-        "../devices/REDMI/EarBuds/resource/redmi_buds3曜石黑.png",
-        "../devices/REDMI/EarBuds/resource/redmi_buds3极光绿.png"
+        "resource/redmi_buds3流光白.png",
+        "resource/redmi_buds3湖光蓝.png",
+        "resource/redmi_buds3曜石黑.png",
+        "resource/redmi_buds3极光绿.png"
       ],
       "setAsNormalSKU": true,
       "specs": {
@@ -32,7 +32,7 @@
       "sku_name": "Buds 3 青春版",
       "model": "M2110E1",
       "images": [
-        "../resource/redmi_buds3_youth黑色.png"
+        "resource/redmi_buds3_youth黑色.png"
       ],
       "setAsNormalSKU": false,
       "specs": {

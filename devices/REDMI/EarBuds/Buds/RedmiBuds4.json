@@ -10,9 +10,9 @@
       "sku_name": "Buds 4 标准版",
       "model": "M2213E1",
       "images": [
-        "../resource/redmi_buds4白色.png",
-        "../resource/redmi_buds4黑色.png",
-        "../resource/redmi_buds4浅蓝色.png"
+        "resource/redmi_buds4白色.png",
+        "resource/redmi_buds4黑色.png",
+        "resource/redmi_buds4浅蓝色.png"
       ],
       "setAsNormalSKU": true,
       "specs": {
@@ -30,8 +30,8 @@
       "sku_name": "Buds 4 活力版",
       "model": "M2232E1",
       "images": [
-        "../resource/redmi_buds4_active黑色.png",
-        "../resource/redmi_buds4_active白色.png"
+        "resource/redmi_buds4_active黑色.png",
+        "resource/redmi_buds4_active白色.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -50,10 +50,10 @@
       "sku_name": "Buds 4 青春版",
       "model": "M2233E1",
       "images": [
-        "../resource/redmi_buds4_youth晴雪白.png",
-        "../resource/redmi_buds4_youth子夜黑.png",
-        "../resource/redmi_buds4_youth落日橙.png",
-        "../resource/redmi_buds4_youth潮流绿.png"
+        "resource/redmi_buds4_youth晴雪白.png",
+        "resource/redmi_buds4_youth子夜黑.png",
+        "resource/redmi_buds4_youth落日橙.png",
+        "resource/redmi_buds4_youth潮流绿.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -72,8 +72,8 @@
       "sku_name": "Buds 4 Pro",
       "model": "M2214E1",
       "images": [
-        "../resource/redmi_buds4pro镜湖白.png",
-        "../resource/redmi_buds4pro极夜黑.png"
+        "resource/redmi_buds4pro镜湖白.png",
+        "resource/redmi_buds4pro极夜黑.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -91,7 +91,9 @@
     {
       "sku_name": "Buds 4 Pro 哈利·波特版",
       "model": "M2214E1",
-      "images": "../resource/redmi_buds4pro_hp哈利波特版.png",
+      "images":[
+        "resource/redmi_buds4pro_hp哈利波特版.png"
+      ],
       "setAsNormalSKU": false,
       "specs": {
         "codename": "redmi.buds.4.pro.hp",
