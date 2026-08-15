@@ -1,0 +1,81 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "NOR-B29",
+  "name": {
+    "zh_CN": "华为手环 10",
+    "en_US": "HUAWEI Band 10"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2024年发布的主流智能手环，1.47英寸AMOLED屏，续航14天，支持100+运动模式，价格亲民。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看华为手环 10 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/band10/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "曜金黑（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-matte-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 4.0"], "detail": "搭载 HarmonyOS 4.0 操作系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "194×368"], "detail": "1.47 英寸 AMOLED 矩形屏幕，分辨率 194×368，2.5D 玻璃。" },
+        "battery": { "specPreview": ["200mAh", "14天续航"], "detail": "200mAh 锂离子聚合物电池，最长使用场景续航 14 天。" },
+        "material": { "specPreview": ["铝合金表壳", "硅胶表带"], "detail": "铝合金表壳（标准版），增强型聚合纤维表壳（标准版），硅胶表带。" },
+        "waterproof": { "specPreview": ["5ATM", "IP68"], "detail": "支持 5ATM 防水与 IP68 防水防尘。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度"], "detail": "支持光学心率、血氧监测、加速度传感器，专业睡眠分析与情绪健康监测。" },
+        "connectivity": { "specPreview": ["蓝牙5.0/5.3", "NFC"], "detail": "支持蓝牙 5.0/5.3 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "冰川白（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-white.png"
+      ]
+    },
+    {
+      "sku_name": "流光紫（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-purple.png"
+      ]
+    },
+    {
+      "sku_name": "星空蓝（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-blue.png"
+      ]
+    },
+    {
+      "sku_name": "原野绿（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-green.png"
+      ]
+    },
+    {
+      "sku_name": "樱花粉（铝合金）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-pink.png"
+      ]
+    },
+    {
+      "sku_name": "矅金黑（聚合纤维）",
+      "model": "NOR-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band10/list/band10-black.png"
+      ]
+    }
+  ]
+}

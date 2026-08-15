@@ -1,0 +1,82 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CAM-AL00",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 6",
+    "en_US": "HUAWEI WATCH GT 6"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2025年9月发布的中端长续航智能手表，提供 46mm 和 41mm 两种尺寸，主打多维情绪健康与骑行体验。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 6 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt6/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "46mm 曜石黑",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/46-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 6.0"], "detail": "搭载 HarmonyOS 6.0 操作系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "466×466", "3000nits 峰值亮度"], "detail": "1.47 英寸 AMOLED 屏幕，分辨率 466×466，峰值亮度 3000nits。" },
+        "battery": { "specPreview": ["867mAh", "长续航"], "detail": "867mAh 锂电池，支持 10W 无线充电。" },
+        "size": { "specPreview": ["约37.5g（不含表带）"], "detail": "重量约 37.5g（不含表带），不锈钢表框。" },
+        "waterproof": { "specPreview": ["IP69"], "detail": "通过 IP69 防护等级认证。" },
+        "sensor": { "specPreview": ["光学心率/血氧/气压", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧、气压计、加速度/陀螺仪/地磁传感器、环境光传感器等。" },
+        "positioning": { "specPreview": ["GPS", "向日葵定位系统"], "detail": "支持 GPS 定位，向日葵定位系统。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "46mm 松林绿",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/46-green.png"
+      ]
+    },
+    {
+      "sku_name": "46mm 雅致灰",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/46-grey.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 曜石黑",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/41-black.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 冰川白",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/41-white.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 旷野棕",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/41-brown.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 星光紫",
+      "model": "CAM-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6/list/41-purple.png"
+      ]
+    }
+  ]
+}

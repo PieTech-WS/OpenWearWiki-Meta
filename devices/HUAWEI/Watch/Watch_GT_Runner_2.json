@@ -1,0 +1,45 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "ARN-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT Runner 2",
+    "en_US": "HUAWEI WATCH GT Runner 2"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为专业智能跑表，超轻薄钛合金表体，超精准定位，专业马拉松模式，适合严肃跑者。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT Runner 2 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt-runner-2/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "疾影黑",
+      "model": "ARN-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt-runner-2/new/list-racing-legend.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED"], "detail": "1.47 英寸 AMOLED 屏幕。" },
+        "material": { "specPreview": ["超轻薄钛合金表体"], "detail": "钛合金表体，轻量化设计，适合长时间跑步佩戴。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧、加速度/陀螺仪/地磁传感器，专业跑姿监测。" },
+        "positioning": { "specPreview": ["超精准双频定位"], "detail": "超精准双频定位系统，专业马拉松模式。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "竞速蓝",
+      "model": "ARN-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt-runner-2/list/blue.png"
+      ]
+    }
+  ]
+}

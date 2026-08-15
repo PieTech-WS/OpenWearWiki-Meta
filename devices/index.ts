@@ -2,6 +2,7 @@ import xiaomi_index from "./Xiaomi/index";
 import redmi_index from "./REDMI/index";
 import Amazfit_index from "./Amazfit/index";
 import OPPO_index from "./OPPO/index";
+import HUAWEi_index from "./HUAWEI/index";
 
 export default [
   {
@@ -24,7 +25,9 @@ export default [
   },
   {
     text: 'HUAWEI',
-    items: []
+    link: '/ProductWiki/devices/HUAWEI',
+    items: HUAWEi_index,
+    collapsed: true
   },
   {
     text: 'OPPO',

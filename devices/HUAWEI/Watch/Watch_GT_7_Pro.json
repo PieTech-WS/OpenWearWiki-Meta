@@ -1,0 +1,54 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-B59",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 7 Pro",
+    "en_US": "HUAWEI WATCH GT 7 Pro"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2026年8月发布的最新高端智能手表，钛合金+纳米微晶陶瓷材质，21天超长续航，支持 ECG 心电分析与多维体征监测。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 7 Pro 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt7-pro/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "境野黄",
+      "model": "SOC-B59",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7-pro/list/yellow.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 6.1"], "detail": "搭载 HarmonyOS 6.1 操作系统，支持玄玑感知 3.0 健康监测系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "466×466", "3000nits 峰值亮度"], "detail": "1.47 英寸 AMOLED 屏幕，分辨率 466×466，峰值亮度 3000nits，蓝宝石玻璃表镜。" },
+        "battery": { "specPreview": ["867mAh", "21天续航"], "detail": "867mAh 高硅叠片异形电池，常规使用场景续航可达 12 天，轻度使用最长 21 天，越野跑模式 51 小时。" },
+        "material": { "specPreview": ["航天级钛合金表体", "纳米微晶陶瓷表圈", "蓝宝石玻璃"], "detail": "航天级钛合金表体，纳米微晶陶瓷立式计时表圈，蓝宝石玻璃镜面，华为易扣表带。" },
+        "waterproof": { "specPreview": ["IP69", "5ATM"], "detail": "通过 IP69 防护等级认证，支持 5ATM 防水。" },
+        "sensor": { "specPreview": ["心电/血氧/温度/深度", "玄玑感知3.0"], "detail": "支持光学心率、血氧、心电图（ECG）、皮肤温度、气压计、加速度/陀螺仪/地磁传感器、深度计，搭载玄玑感知 3.0。" },
+        "positioning": { "specPreview": ["双频六星定位", "AI-XDR 惯导算法"], "detail": "支持 GPS/GLONASS/北斗/Galileo/QZSS/NavIC 六卫星系统双频定位，向日葵定位系统升级版，AI-XDR 惯导算法。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC 连接。" }
+      }
+    },
+    {
+      "sku_name": "松霜绿",
+      "model": "SOC-B59",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7-pro/list/green.png"
+      ]
+    },
+    {
+      "sku_name": "碳晶黑",
+      "model": "SOC-B59",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7-pro/list/black.png"
+      ]
+    }
+  ]
+}

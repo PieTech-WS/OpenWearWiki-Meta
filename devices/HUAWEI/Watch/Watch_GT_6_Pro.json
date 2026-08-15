@@ -1,0 +1,46 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CAM-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 6 Pro",
+    "en_US": "HUAWEI WATCH GT 6 Pro"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2025年9月发布的高端运动智能手表，仅有 46mm 款，屏幕面积比上一代大 5.5%，峰值亮度 3000nits。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 6 Pro 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt6-pro/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "曜石黑",
+      "model": "CAM-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6-pro/list/black.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-gt6-pro/list-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 6.0"], "detail": "搭载 HarmonyOS 6.0 操作系统，支持玄玑感知系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "466×466", "3000nits 峰值亮度"], "detail": "1.47 英寸 AMOLED 屏幕，分辨率 466×466，峰值亮度 3000nits，屏幕面积比上一代大 5.5%。" },
+        "battery": { "specPreview": ["867mAh", "长续航"], "detail": "867mAh 锂电池，支持无线充电。" },
+        "sensor": { "specPreview": ["光学心率/血氧/气压", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧传感器、环境光传感器、气压计、加速度/陀螺仪/地磁传感器等。" },
+        "positioning": { "specPreview": ["双频五星定位"], "detail": "支持五卫星系统双频定位，向日葵定位系统，定位准确度提升 20%。" },
+        "connectivity": { "specPreview": ["蓝牙6.0", "NFC"], "detail": "支持蓝牙 6.0 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "旷野棕",
+      "model": "CAM-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt6-pro/list/brown.png"
+      ]
+    }
+  ]
+}

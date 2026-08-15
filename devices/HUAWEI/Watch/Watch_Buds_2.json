@@ -1,0 +1,44 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CAM-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH Buds 2",
+    "en_US": "HUAWEI WATCH Buds 2"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为手表耳机二合一产品，表体内置真无线耳机，随时取用，兼顾手表功能与高品质音频体验。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH Buds 2 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-buds-2/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "幻夜黑",
+      "model": "CAM-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-buds-2/list/black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["AMOLED 屏幕"], "detail": "AMOLED 屏幕，支持触控操作。" },
+        "material": { "specPreview": ["表体内置真无线耳机"], "detail": "表体弹盖设计，内置一对真无线耳机，支持主动降噪。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度"], "detail": "支持光学心率、血氧监测、加速度传感器。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "钛银灰",
+      "model": "CAM-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-buds-2/list/silver.png"
+      ]
+    }
+  ]
+}

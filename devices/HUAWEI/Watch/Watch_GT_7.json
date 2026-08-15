@@ -1,0 +1,75 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 7",
+    "en_US": "HUAWEI WATCH GT 7"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2026年8月发布的中端长续航智能手表，提供 46mm 和 41mm 两种尺寸，首发身体状态准备度功能，最长 21 天续航。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 7 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt7/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "46mm 星际蓝",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/46mm-blue.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 6.1"], "detail": "搭载 HarmonyOS 6.1 操作系统，支持玄玑感知 3.0。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "466×466", "3000nits"], "detail": "1.47 英寸 AMOLED 屏幕，分辨率 466×466，PPI 317，峰值亮度 3000nits。" },
+        "battery": { "specPreview": ["最长21天续航"], "detail": "高硅叠片异形电池，轻度使用最长 21 天，常规使用约 12 天。" },
+        "material": { "specPreview": ["不锈钢表壳"], "detail": "不锈钢表壳，氟橡胶/素皮表带。" },
+        "waterproof": { "specPreview": ["IP69", "5ATM"], "detail": "通过 IP69 防护等级认证，支持 5ATM 防水。" },
+        "sensor": { "specPreview": ["光学心率/血氧/温度", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧、温度传感器、气压计、加速度/陀螺仪/地磁传感器，首发身体状态准备度功能。" },
+        "positioning": { "specPreview": ["双频六星定位", "向日葵定位系统"], "detail": "支持六卫星系统双频定位，向日葵定位系统，AI-XDR 惯导算法。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "46mm 幻夜黑",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/46mm-black.png"
+      ]
+    },
+    {
+      "sku_name": "46mm 雅致灰",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/46mm-grey.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 星际蓝",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/41mm-blue.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 雅致灰",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/41mm-grey.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 冰川白",
+      "model": "SOC-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-gt7/list/41mm-white.png"
+      ]
+    }
+  ]
+}

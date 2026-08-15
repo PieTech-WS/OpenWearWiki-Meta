@@ -1,0 +1,73 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "TSK-AL00",
+  "name": {
+    "zh_CN": "HUAWEI WATCH FIT 4",
+    "en_US": "HUAWEI WATCH FIT 4"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2025年5月发布的入门级时尚运动智能手表，延续 FIT 系列轻薄设计基因，109 项运动监测，价格亲民。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH FIT 4 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-fit4/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "雅致灰",
+      "model": "TSK-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-fit4/list/grey.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit4/list-grey.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["1.82\" AMOLED", "480×408", "2000nits 峰值亮度"], "detail": "1.82 英寸 AMOLED 曲面屏幕，分辨率 480×408（347 PPI），峰值亮度 2000nits。" },
+        "battery": { "specPreview": ["7天续航"], "detail": "锂电池，支持无线充电，7 天续航满足日常需求。" },
+        "size": { "specPreview": ["约26g", "9.5mm 厚度"], "detail": "重量约 26g，厚度 9.5mm，轻薄佩戴舒适。" },
+        "material": { "specPreview": ["铝合金表壳"], "detail": "铝合金表壳，轻量耐用。" },
+        "waterproof": { "specPreview": ["5ATM"], "detail": "支持 5ATM 防水。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度/陀螺仪/地磁/气压"], "detail": "支持光学心率、血氧监测、气压计、加速度/陀螺仪/地磁传感器、环境光传感器。" },
+        "positioning": { "specPreview": ["GPS"], "detail": "支持 GPS 定位。" },
+        "connectivity": { "specPreview": ["蓝牙5.2", "NFC"], "detail": "支持蓝牙 5.2 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "韵律黑",
+      "model": "TSK-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-fit4/list/black.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit4/list-black.png"
+      ]
+    },
+    {
+      "sku_name": "冰晶白",
+      "model": "TSK-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-fit4/list/white.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit4/list-white.png"
+      ]
+    },
+    {
+      "sku_name": "风信紫",
+      "model": "TSK-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-fit4/list/purple.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit4/list-purple.png"
+      ]
+    },
+    {
+      "sku_name": "向新绿",
+      "model": "TSK-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-fit4/list/green.png"
+      ]
+    }
+  ]
+}

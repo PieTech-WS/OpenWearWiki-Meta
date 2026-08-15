@@ -1,0 +1,54 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-B29",
+  "name": {
+    "zh_CN": "华为手环 11 Pro",
+    "en_US": "HUAWEI Band 11 Pro"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2026年发布的旗舰智能手环，1.47英寸AMOLED曲面屏，支持独立北斗+GPS双频定位，铝合金表壳。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看华为手环 11 Pro 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/band11-pro/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "羽砂黑",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11-pro/list/black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["1.47\" AMOLED", "352PPI", "600nits"], "detail": "1.47 英寸 AMOLED 曲面屏幕，PPI 352，峰值亮度 600nits，60Hz 刷新率。" },
+        "battery": { "specPreview": ["210mAh", "长续航"], "detail": "210mAh 锂电池，续航满足日常使用。" },
+        "material": { "specPreview": ["铝合金表壳"], "detail": "铝合金表壳，轻量耐用。" },
+        "waterproof": { "specPreview": ["5ATM"], "detail": "支持 5ATM 防水。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度/陀螺仪"], "detail": "支持光学心率、血氧监测、加速度传感器、陀螺仪等。" },
+        "positioning": { "specPreview": ["独立北斗+GPS 双频"], "detail": "支持独立北斗+GPS 双频 GNSS 定位，无需携带手机。" },
+        "connectivity": { "specPreview": ["蓝牙5.0", "NFC"], "detail": "支持蓝牙 5.0 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "原野绿",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11-pro/list/green.png"
+      ]
+    },
+    {
+      "sku_name": "星空蓝",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11-pro/list/blue.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CLB-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH Ultimate Design 非凡大师 皇家金",
+    "en_US": "HUAWEI WATCH Ultimate Design Royal Gold Edition"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为穿戴产品线奢华旗舰，18K 金材质，蓝宝石镜面，定位超高端市场。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH Ultimate Design 皇家金 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-ultimate-design-royal-gold-edition/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "皇家金",
+      "model": "CLB-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-ultimate-design-royal-gold-edition/list.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "material": { "specPreview": ["18K 金", "蓝宝石镜面"], "detail": "18K 金表圈与装饰，蓝宝石玻璃镜面，奢华工艺。" },
+        "display": { "specPreview": ["LTPO2 AMOLED"], "detail": "LTPO2 AMOLED 屏幕，高亮度显示。" },
+        "sensor": { "specPreview": ["X-TAP 智感窗", "心电/血氧/温度"], "detail": "搭载 X-TAP 智感窗，支持心电图、血氧、温度等健康监测。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC", "eSIM"], "detail": "支持蓝牙、NFC、eSIM 独立通信。" }
+      }
+    }
+  ]
+}

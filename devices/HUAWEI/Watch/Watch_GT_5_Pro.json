@@ -1,0 +1,58 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "PNX-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 5 Pro",
+    "en_US": "HUAWEI WATCH GT 5 Pro"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2024年9月发布的中高端智能手表，钛金属表体与陶瓷表带，提供 46mm 和 42mm 两种尺寸。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 5 Pro 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt5-pro/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "46mm 曜石黑",
+      "model": "PNX-B19",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5-pro/list/list-46mm-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS NEXT"], "detail": "搭载 HarmonyOS NEXT 操作系统，支持玄玑感知系统。" },
+        "display": { "specPreview": ["1.43\" AMOLED", "466×466"], "detail": "1.43 英寸 AMOLED 屏幕，分辨率 466×466。" },
+        "battery": { "specPreview": ["524mAh", "长续航"], "detail": "524mAh 锂聚合物电池，支持无线充电，续航可达 14 天。" },
+        "material": { "specPreview": ["钛金属表体", "蓝宝石玻璃"], "detail": "航空航天级钛金属表体，蓝宝石玻璃镜面，部分版本搭配陶瓷表带。" },
+        "waterproof": { "specPreview": ["IP68", "5ATM", "40米潜水"], "detail": "支持 IP68 防护、5ATM 防水、40 米潜水防水。" },
+        "sensor": { "specPreview": ["心电/血氧/温度", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧、心电图（ECG）、皮肤温度、气压计、加速度/陀螺仪/地磁传感器。" },
+        "positioning": { "specPreview": ["双频五星定位"], "detail": "支持五卫星系统双频定位。" },
+        "connectivity": { "specPreview": ["蓝牙5.2", "NFC"], "detail": "支持蓝牙 5.2 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "46mm 钛银色",
+      "model": "PNX-B19",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5-pro/list/list-46mm-titanium.png"
+      ]
+    },
+    {
+      "sku_name": "42mm 冰川白",
+      "model": "PNX-B19",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5-pro/list/list-42mm-white.png"
+      ],
+      "specs": {
+        "display": { "specPreview": ["1.32\" AMOLED"], "detail": "1.32 英寸 AMOLED 屏幕，更适合细手腕用户。" },
+        "battery": { "specPreview": ["续航约7天"], "detail": "42mm 版本常规使用续航约 5 天，最长续航 7 天。" }
+      }
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CLB-B19",
+  "name": {
+    "zh_CN": "HUAWEI WATCH Ultimate 2 非凡探索",
+    "en_US": "HUAWEI WATCH Ultimate 2"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为穿戴产品线顶级旗舰，定位专业户外探索与潜水运动，支持150米专业潜水防水，是业界首款150米潜水且具备音频功能的智能手表。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH Ultimate 2 官方详情与购买信息。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-ultimate-2/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "苍穹黑",
+      "model": "CLB-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-ultimate-2/list/black.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-ultimate-2/list-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 5.1"], "detail": "搭载 HarmonyOS 5.1 操作系统，支持独立通话上网（eSIM），内置腕上 AI 小艺，支持盘古与 DeepSeek 大模型。" },
+        "platform": { "specPreview": ["麒麟芯片", "5G 通信"], "detail": "搭载华为麒麟芯片，集成独立先锋通信 modem、NPU 处理单元与双核算力，支持 5G 独立通信与星闪技术。" },
+        "display": { "specPreview": ["1.5\" LTPO2 AMOLED", "466×466", "3500nits 峰值亮度"], "detail": "1.5 英寸 LTPO2 AMOLED 屏幕，分辨率 466×466（约310 PPI），峰值亮度 3500nits，支持 AOD 常亮显示，蓝宝石玻璃镜面。" },
+        "battery": { "specPreview": ["867mAh", "无线超级快充"], "detail": "867mAh 锂电池，支持 10W 无线充电，90 分钟充满。常规使用续航约 14 天。" },
+        "material": { "specPreview": ["非晶锆合金表壳", "纳米微晶陶瓷表圈", "蓝宝石玻璃"], "detail": "超坚固非晶锆合金表壳，纳米微晶陶瓷表圈与后壳，蓝宝石玻璃镜面。" },
+        "waterproof": { "specPreview": ["IP69/IP68", "150米潜水防水"], "detail": "通过 IP69K 与 IP68 双重防护认证，支持 150 米专业潜水防水（EN13319 认证）。" },
+        "size": { "specPreview": ["48.5×48.5×12.9mm", "约80.5g"], "detail": "表体尺寸 48.5mm × 48.5mm × 12.9mm，重量约 80.5g（不含表带），适用手腕尺寸 140-210mm。" },
+        "sensor": { "specPreview": ["X-TAP 智感窗", "心电/血氧/温度/深度"], "detail": "搭载 X-TAP 智感窗传感器，支持光学心率、血氧、心电图（ECG）、皮肤温度、气压/海拔、加速度/陀螺仪/地磁、深度传感器等。" },
+        "positioning": { "specPreview": ["双频五星定位"], "detail": "支持 GPS、GLONASS、北斗、Galileo、QZSS 五卫星系统双频定位，向日葵定位系统。" },
+        "connectivity": { "specPreview": ["蓝牙5.2", "Wi-Fi", "NFC", "eSIM"], "detail": "支持蓝牙 5.2、Wi-Fi、NFC、eSIM 独立通话，支持星闪（NearLink）技术。" }
+      }
+    },
+    {
+      "sku_name": "蔚海蓝",
+      "model": "CLB-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-ultimate-2/list/blue.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-ultimate-2/list-blue.png"
+      ]
+    },
+    {
+      "sku_name": "旷野绿",
+      "model": "CLB-B19",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-ultimate-2/list-green.png"
+      ]
+    }
+  ]
+}

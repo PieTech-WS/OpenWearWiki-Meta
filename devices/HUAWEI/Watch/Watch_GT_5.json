@@ -1,0 +1,90 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "PNX-AL00",
+  "name": {
+    "zh_CN": "HUAWEI WATCH GT 5",
+    "en_US": "HUAWEI WATCH GT 5"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2024年9月发布的中端智能手表，雕塑感几何设计，轻薄轻量，提供 46mm 和 41mm 两种尺寸。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH GT 5 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-gt5/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "46mm 幻夜黑",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/46mm-black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统，支持玄玑感知系统。" },
+        "display": { "specPreview": ["1.43\" AMOLED", "466×466"], "detail": "1.43 英寸 AMOLED 屏幕，分辨率 466×466（约326 PPI）。" },
+        "battery": { "specPreview": ["524mAh"], "detail": "524mAh 锂聚合物电池，支持无线充电。" },
+        "size": { "specPreview": ["45.8×45.8×10.7mm", "约48g"], "detail": "表体尺寸 45.8mm × 45.8mm × 10.7mm，重量约 48g（不含表带），适用手腕尺寸 140-210mm。" },
+        "material": { "specPreview": ["不锈钢前壳", "复合材料后壳"], "detail": "前壳不锈钢，后壳高性能纤维增强复合材料。" },
+        "waterproof": { "specPreview": ["IP69K"], "detail": "满足 ISO 20653:2023 标准 IP69K 防护等级要求。" },
+        "sensor": { "specPreview": ["TrueSense 6.0", "光学心率/血氧/温度"], "detail": "搭载 TrueSense 6.0 传感器，支持 9 轴加速度、陀螺仪、地磁、温度、光学心率、血氧传感器。" },
+        "positioning": { "specPreview": ["GPS", "向日葵定位系统"], "detail": "支持 GPS 定位，向日葵定位系统。" },
+        "connectivity": { "specPreview": ["蓝牙5.2", "NFC"], "detail": "支持蓝牙 5.2 与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "46mm 托帕蓝",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/46mm-blue.png"
+      ]
+    },
+    {
+      "sku_name": "46mm 马鞍棕",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/46mm-brown.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 幻夜黑",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/41mm-black.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 托帕蓝",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/41mm-blue.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 冰川白",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/41mm-white.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 马鞍棕",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/41mm-brown.png"
+      ]
+    },
+    {
+      "sku_name": "41mm 流金粉",
+      "model": "PNX-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-gt5/list/41mm-gold.png"
+      ]
+    }
+  ]
+}

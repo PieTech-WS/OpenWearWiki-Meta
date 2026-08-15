@@ -1,0 +1,62 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "ISA-BX9",
+  "name": {
+    "zh_CN": "HUAWEI WATCH D2",
+    "en_US": "HUAWEI WATCH D2"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2024年11月发布的血压健康手表，主打 24 小时动态血压监测（ABPM），是华为穿戴产品线中唯一配备医疗级血压测量功能的设备。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH D2 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-d2/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "晨曦金",
+      "model": "ISA-BX9",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-d2/list/blue.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-d2/list/list-blue.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统，支持华为 TruSense 传感器系统。" },
+        "display": { "specPreview": ["1.82\" AMOLED", "347PPI"], "detail": "1.82 英寸方形 AMOLED 屏幕，分辨率 347PPI，支持 AOD 常亮显示。" },
+        "battery": { "specPreview": ["锂电池"], "detail": "锂电池，支持无线充电。" },
+        "material": { "specPreview": ["26.5mm 超窄气囊"], "detail": "采用 26.5mm 超窄气囊设计，集成微型气泵，实现腕部血压测量。" },
+        "sensor": { "specPreview": ["血压气泵/气囊", "光学心率/血氧/温度", "GPS"], "detail": "内置微型气泵与气囊，支持 24 小时动态血压监测（ABPM）、单次血压测量、定时血压测量，集成 GPS 模块和 TruSense 传感器，支持皮肤温度监测。" },
+        "positioning": { "specPreview": ["GPS"], "detail": "支持 GPS 定位。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "幻夜黑",
+      "model": "ISA-BX9",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-d2/list/black.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-d2/list/list-black.png"
+      ]
+    },
+    {
+      "sku_name": "流光金",
+      "model": "ISA-BX9",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/admin-image/wearables/watch-d2/list/list-gold.png"
+      ]
+    },
+    {
+      "sku_name": "冰晶白",
+      "model": "ISA-BX9",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-d2/list/white.png"
+      ]
+    }
+  ]
+}

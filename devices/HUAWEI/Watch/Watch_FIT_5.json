@@ -1,0 +1,69 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-AL00",
+  "name": {
+    "zh_CN": "HUAWEI WATCH FIT 5",
+    "en_US": "HUAWEI WATCH FIT 5"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2026年4月发布的轻薄时尚智能手表，航空级铝合金中框，重量仅约 27g，主打年轻时尚与日常健康监测。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH FIT 5 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-fit-5/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "悦动白",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit5/list-silver.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["1.82\" AMOLED", "480×408", "2500nits 峰值亮度"], "detail": "1.82 英寸 AMOLED 屏幕，分辨率 480×408，峰值亮度 2500nits。" },
+        "battery": { "specPreview": ["471mAh", "无线充电"], "detail": "471mAh 锂电池，支持无线充电，充电约 75 分钟。" },
+        "size": { "specPreview": ["约27g", "9.5mm 厚度"], "detail": "重量约 27g，厚度 9.5mm，轻薄舒适。" },
+        "material": { "specPreview": ["航空级铝合金中框"], "detail": "航空级 7 系铝合金中框，轻量耐用。" },
+        "waterproof": { "specPreview": ["5ATM", "IP6X"], "detail": "支持 5ATM 防水与 IP6X 防尘。" },
+        "sensor": { "specPreview": ["光学心率/血氧/温度", "加速度/陀螺仪/地磁"], "detail": "支持光学心率、血氧、温度传感器、气压计、环境光传感器、加速度/陀螺仪/地磁传感器。" },
+        "positioning": { "specPreview": ["GPS"], "detail": "支持 GPS 定位。" },
+        "connectivity": { "specPreview": ["蓝牙", "NFC"], "detail": "支持蓝牙与 NFC。" }
+      }
+    },
+    {
+      "sku_name": "韵律黑",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit5/list-black.png"
+      ]
+    },
+    {
+      "sku_name": "冰晶白",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit5/list-white.png"
+      ]
+    },
+    {
+      "sku_name": "风信紫",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit5/list-purple.png"
+      ]
+    },
+    {
+      "sku_name": "向新绿",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-fit5/list-green.png"
+      ]
+    }
+  ]
+}

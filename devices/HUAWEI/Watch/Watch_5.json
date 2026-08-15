@@ -1,0 +1,85 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-AL00",
+  "name": {
+    "zh_CN": "HUAWEI WATCH 5",
+    "en_US": "HUAWEI WATCH 5"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为首款鸿蒙 AI 智能手表，搭载麒麟芯片与 5G 通信，定位旗舰级全场景智慧表。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看 HUAWEI WATCH 5 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/watch-5/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "46mm 苍穹黑",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/46mm/black.png",
+        "https://consumer.huawei.com/dam/content/dam/huawei-cbg-site/common/mkt/pdp/wearables/watch-5/list-purple-46mm.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS 5.1"], "detail": "搭载 HarmonyOS 5.1，华为首款鸿蒙 AI 智能手表，内置腕上 AI 小艺，支持盘古与 DeepSeek 大模型。" },
+        "platform": { "specPreview": ["麒麟芯片", "5G 通信"], "detail": "搭载华为麒麟芯片，集成独立先锋通信 modem、NPU 处理单元与双核算力，支持 5G 独立通信与星闪技术。" },
+        "display": { "specPreview": ["1.5\" LTPO AMOLED", "466×466", "3000nits 峰值亮度"], "detail": "1.5 英寸 LTPO AMOLED 屏幕，分辨率 466×466（约310 PPI），峰值亮度 3000nits，支持 AOD 常亮显示。" },
+        "battery": { "specPreview": ["867mAh", "无线超级快充"], "detail": "867mAh 锂电池，支持 10W 无线充电，常规使用续航约 14 天。" },
+        "material": { "specPreview": ["316L 不锈钢", "蓝宝石玻璃"], "detail": "316L 不锈钢表体，蓝宝石玻璃镜面。" },
+        "waterproof": { "specPreview": ["IP69/IP68", "5ATM"], "detail": "通过 IP69 与 IP68 防护等级认证，支持 5ATM 防水。" },
+        "size": { "specPreview": ["46×46.7×11.3mm", "约63g"], "detail": "表体尺寸 46mm × 46.7mm × 11.3mm，重量约 63g（不含表带）。" },
+        "sensor": { "specPreview": ["X-TAP 智感窗", "心电/血氧/温度"], "detail": "搭载 X-TAP 智感窗传感器，支持光学心率、血氧、心电图（ECG）、皮肤温度、气压计、加速度/陀螺仪/地磁传感器、深度计。" },
+        "positioning": { "specPreview": ["双频五星定位"], "detail": "支持五卫星系统双频定位，向日葵定位系统。" },
+        "connectivity": { "specPreview": ["蓝牙5.2", "Wi-Fi", "NFC", "eSIM"], "detail": "支持蓝牙 5.2、Wi-Fi、NFC、eSIM 独立通话，支持星闪技术。" }
+      }
+    },
+    {
+      "sku_name": "46mm 星光紫",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/46mm/purple.png"
+      ]
+    },
+    {
+      "sku_name": "46mm 星光蓝",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/46mm/blue.png"
+      ]
+    },
+    {
+      "sku_name": "42mm 苍穹黑",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/42mm/black.png"
+      ]
+    },
+    {
+      "sku_name": "42mm 沙金色",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/42mm/gold.png"
+      ]
+    },
+    {
+      "sku_name": "42mm 冰川白",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/42mm/white.png"
+      ]
+    },
+    {
+      "sku_name": "42mm 星光绿",
+      "model": "SOC-AL00",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/watch-5/list/42mm/green.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "CAM-B19",
+  "name": {
+    "zh_CN": "华为通话手环 B7",
+    "en_US": "HUAWEI TalkBand B7"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "华为通话手环系列，兼具手环与蓝牙耳机功能，可拆卸表体直接作为蓝牙耳机通话。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看华为通话手环 B7 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/talkband-b7/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "幻夜黑",
+      "model": "CAM-B19",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/talkband-b7/list/black.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "display": { "specPreview": ["1.53\" AMOLED"], "detail": "1.53 英寸 AMOLED 弧面屏幕。" },
+        "material": { "specPreview": ["不锈钢表体", "可拆卸蓝牙耳机"], "detail": "不锈钢表体，表体可拆卸作为蓝牙耳机使用，支持通话功能。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度"], "detail": "支持光学心率、血氧监测、加速度传感器。" },
+        "connectivity": { "specPreview": ["蓝牙5.2"], "detail": "支持蓝牙 5.2，可与手机配对通话。" }
+      }
+    }
+  ]
+}

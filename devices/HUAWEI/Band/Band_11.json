@@ -1,0 +1,65 @@
+{
+  "SchemeVersion": 1,
+  "Type": "product_wiki",
+  "model": "SOC-B29",
+  "name": {
+    "zh_CN": "华为手环 11",
+    "en_US": "HUAWEI Band 11"
+  },
+  "notice": {
+    "title": "产品定位",
+    "text": "2026年发布的主流智能手环，轻量设计，健康监测与运动追踪，价格亲民。"
+  },
+  "actions": [
+    {
+      "title": "华为官网产品页",
+      "description": "查看华为手环 11 官方详情。",
+      "href": "https://consumer.huawei.com/cn/wearables/band11/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "燕麦白",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11/list/beige.png"
+      ],
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": { "specPreview": ["HarmonyOS"], "detail": "搭载 HarmonyOS 操作系统。" },
+        "display": { "specPreview": ["AMOLED 屏幕"], "detail": "AMOLED 屏幕，轻量设计。" },
+        "battery": { "specPreview": ["长续航"], "detail": "锂电池，续航满足日常使用。" },
+        "sensor": { "specPreview": ["光学心率/血氧", "加速度"], "detail": "支持光学心率、血氧监测、加速度传感器。" },
+        "connectivity": { "specPreview": ["蓝牙"], "detail": "支持蓝牙连接。" }
+      }
+    },
+    {
+      "sku_name": "矅金黑",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11/list/black.png"
+      ]
+    },
+    {
+      "sku_name": "冰川白",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11/list/white.png"
+      ]
+    },
+    {
+      "sku_name": "原野绿",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11/list/green.png"
+      ]
+    },
+    {
+      "sku_name": "流光紫",
+      "model": "SOC-B29",
+      "images": [
+        "https://consumer.huawei.com/content/dam/huawei-cbg-site/cn/mkt/pdp/wearables/band11/list/purple.png"
+      ]
+    }
+  ]
+}

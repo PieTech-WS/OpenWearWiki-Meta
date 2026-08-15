@@ -7,6 +7,7 @@
  | [REDMI](/ProductWiki/devices/REDMI/) |
  | [Amazfit](/ProductWiki/devices/Amazfit/) |
  | [OPPO](/ProductWiki/devices/OPPO/) |
+ | [HUAWEI](/ProductWiki/devices/HUAWEI/)
 
 ## Platforms(硬件平台)
 
