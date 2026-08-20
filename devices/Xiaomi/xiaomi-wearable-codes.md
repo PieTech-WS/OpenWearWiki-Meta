@@ -102,8 +102,4 @@
 | miwear.watch.p65 | REDMI Watch 6 |
 | miwear.watch.p65gl | REDMI Watch 6 海外版 |
 | miwear.watch.p65gln | REDMI Watch 6 海外NFC版 |
-| miwear.watch.p67cn | Xiaomi手环10 Pro 金属版  |
-| miwear.watch.p67tc | Xiaomi手环10 Pro 陶瓷版  |
-| miwear.watch.p67gl | unknown |
-| miwear.watch.p67gln | unknown |
-| miwear.watch.p67glt | unknown |
+| miwear.watch.q65acn | REDMI Watch 6 活力版 |

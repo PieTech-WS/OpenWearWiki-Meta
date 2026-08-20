@@ -36,6 +36,29 @@
         "connectivity": "Bluetooth 5.4",
         "atm": "5ATM"
       }
+    },
+    {
+      "sku_name": "活力版",
+      "model": "M2564W1",
+      "images": [
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1787194413.7013822.png",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1787194422.81453518.png",
+        "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1787194433.73322001.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 4.0)"]
+        },
+        "codename": "miwear.watch.q65acn",
+        "platform": "Actions炬芯科技ATS3085L(不确定)",
+        "storage": ["8MB RAM", "128MB ROM"],
+        "display": ["390*450 PX", "1.85\" AMOLED"],
+        "battery": "470mAh",
+        "connectivity": "双模蓝牙 BLE/BT 5.3",
+        "atm": "IP68"
+      }
     }
   ]
 }
