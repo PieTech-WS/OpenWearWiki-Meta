@@ -18,8 +18,9 @@
 | [MiJia Quartz Watch](/ProductWiki/devices/Xiaomi/Watch/MiJia-Quartz-Watch) |
 
 ## Xiaomi Smart Band
+| [Xiaomi Smart Band 11](/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand11) |
+ ----- |
 | [Xiaomi Smart Band 10 Pro](/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand10Pro) |
-| ----- |
 | [Xiaomi Smart Band 10 ](/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand10) |
 | [Xiaomi Smart Band 9 Pro](/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand9Pro) |
 | [Xiaomi Smart Band 9](/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand9) |

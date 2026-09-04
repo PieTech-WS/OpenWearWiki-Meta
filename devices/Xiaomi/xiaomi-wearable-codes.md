@@ -45,7 +45,7 @@
 | mijia.watch.m69bas          | Xiaomi手环8(活力版亚太版)                        |
 | mijia.watch.m69bgl          | Xiaomi手环8(活力版海外版)                        |
 | miwear.watch.n69cn          | Redmi手环3                                 |
-| miwear.watch.n69gl          | Xiaomi手环9 活力版(海外)                     |
+| miwear.watch.n69gl          | Xiaomi手环9 活力版 (海外版)                     |
 | miwear.watch.n66cn          | Xiaomi手环9   |
 | miwear.watch.n66nfc         | Xiaomi手环9NFC |
 | miwear.watch.n66tc          | Xiaomi手环9(陶瓷特别版)                         |
@@ -59,9 +59,22 @@
 | miwear.watch.o66lj          | Xiaomi手环10 耀影金                                 |
 | miwear.watch.o66gl          | Xiaomi手环10 (海外版)                         |
 | miwear.watch.o66gln         | Xiaomi手环10 NFC版 (海外版)                    |
-| miwear.watch.o66glt         | Xiaomi手环10 海外陶瓷版?                        |
-| miwear.watch.p67            | Xiaomi手环10 Pro 金属版                       |
+| miwear.watch.o66glt         | Xiaomi手环10 陶瓷版（海外版）                        |
+| miwear.watch.o66glp         | Xiaomi手环10 耀影金（海外版）                        |
+| miwear.watch.p67            | Xiaomi手环10 Pro                       |
 | miwear.watch.p67tc          | Xiaomi手环10 Pro 陶瓷版                       |
+| miwear.watch.p67gl          | Xiaomi手环10 Pro (海外版)                      |
+| miwear.watch.p67gln         | Xiaomi手环10 Pro NFC版 (海外版)                       |
+| miwear.watch.p67glt         | Xiaomi手环10 Pro 陶瓷版 (海外版)                      |
+| miwear.watch.q69gl          | Xiaomi手环11 活力版 (海外版)                       |
+| miwear.watch.q66cn          | Xiaomi手环11                               |
+| miwear.watch.q66nfc         | Xiaomi手环11 NFC版                          |
+| miwear.watch.q66tc          | Xiaomi手环11 陶瓷版                           |
+| miwear.watch.q66u           | Xiaomi手环11 全金属版                                 |
+| miwear.watch.q66gl          | Xiaomi手环11 (海外版)                         |
+| miwear.watch.q66gln         | Xiaomi手环11 NFC版 (海外版)                    |
+| miwear.watch.q66glt         | Xiaomi手环11 陶瓷版 (海外版)                        |
+| miwear.watch.q66glu         | Xiaomi手环11 全金属版 (海外版)                        |
 ### 手表
 :::info
 自Xiaomi手表H1开始整理
@@ -103,3 +116,5 @@
 | miwear.watch.p65gl | REDMI Watch 6 海外版 |
 | miwear.watch.p65gln | REDMI Watch 6 海外NFC版 |
 | miwear.watch.q65acn | REDMI Watch 6 活力版 |
+| miwear.watch.q65agl | REDMI Watch 6 活力版 (海外版) |
+|  miwear.watch.q65bgl | REDMI Watch 6 Lite (海外版) |
