@@ -50,6 +50,9 @@ export default [
         text: '手环',
         collapsed: true,
         items: [{
+            text: 'Xiaomi Smart Band 11',
+            link: '/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand11'
+        }, {
             text: 'Xiaomi Smart Band 10 Pro',
             link: '/ProductWiki/devices/Xiaomi/Band/XiaomiSmartBand10Pro'
         }, {

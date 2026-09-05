@@ -1,0 +1,111 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Smart Band 11",
+    "en_US": "Xiaomi Smart Band 11"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/mb11/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "标准版",
+      "model": "M2616B1",
+      "images": [
+        "./resource/q66_标准版_1.png",
+        "./resource/q66_标准版_2.png",
+        "./resource/q66_标准版_3.png",
+        "./resource/q66_标准版_4.png"
+      ],
+      "imagesText": "./resource/q66_标准版_1.png\n./resource/q66_标准版_2.png\n./resource/q66_标准版_3.png\n./resource/q66_标准版_4.png",
+      "setAsNormalSKU": true,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "codename": "miwear.watch.q66cn",
+        "platform": "bestechnic/bes2700imp",
+        "storage": ["32MB RAM", "256MB ROM"],
+        "display": ["212*520 PX", "1.72\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "NFC版",
+      "model": "M2617B1",
+      "images": [
+         "./resource/q66_标准版_1.png",
+        "./resource/q66_标准版_2.png",
+        "./resource/q66_标准版_3.png",
+        "./resource/q66_标准版_4.png"
+      ],
+      "imagesText": "./resource/q66_标准版_1.png\n./resource/q66_标准版_2.png\n./resource/q66_标准版_3.png\n./resource/q66_标准版_4.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+
+        "codename": "miwear.watch.q66nfc",
+        "platform": "bestechnic/bes2700imp",
+        "storage": ["32MB RAM", "512MB ROM"],
+        "display": ["212*520 PX", "1.72\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+      }
+    },{
+      "sku_name": "陶瓷版",
+      "model": "M2617B1",
+      "images": [
+        "./resource/q66_陶瓷版_1.png",
+        "./resource/q66_陶瓷版_2.png"
+      ],
+      "imagesText": "./resource/q66_陶瓷版_1.png\n./resource/q66_陶瓷版_2.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "codename": "miwear.watch.q66tc",
+        "platform": "bestechnic/bes2700imp",
+        "storage": ["32MB RAM", "512MB ROM"],
+        "display": ["212*520 PX", "1.72\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+      }
+    },{
+      "sku_name": "全金属版",
+      "model": "M2617B1",
+      "images": [
+        "./resource/q66_全金属版_1.png"
+      ],
+      "imagesText": "./resource/q66_全金属版_1.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "codename": "miwear.watch.q66u",
+        "platform": "bestechnic/bes2700imp",
+        "storage": ["32MB RAM", "512MB ROM"],
+        "display": ["212*520 PX", "1.72\" AMOLED"],
+        "battery": "233mAh",
+        "connectivity": "Bluetooth 5.4",
+        "atm": "5ATM"
+      }
+    }
+  ]
+}

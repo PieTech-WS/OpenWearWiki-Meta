@@ -29,8 +29,11 @@
           "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
         },
         "platform": "bestechnic/bes2800bp",
-        "storage": ["32MB RAM", "4GB ROM"],
-        "display": ["466*466 PX", "1.72\" AMOLED"]
+        "storage": ["8.3MB SRAM", "64MB PSRAM", "4GB ROM"],
+        "display": ["480*480 PX", "1.48\" AMOLED", "最高 2500 nits"],
+        "wifi_support": "支持",
+        "wifi_detail": "2.4GHz Wi-Fi",
+        "battery": ["815mAh", "小米金沙江电池", "蓝牙模式最长 21 天", "蓝牙AOD 模式最长 9 天", "蓝牙常规监测最长 14 天"]
       }
     },
     {
@@ -38,7 +41,11 @@
       "model": "M2517W1",
       "images": [
         "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003276.88276666.png"
-      ]
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "battery": ["815mAh", "小米金沙江电池", "eSIM模式最长 14 天", "eSIM常规监测最长 8 天"]
+      }
     }
   ]
 }
