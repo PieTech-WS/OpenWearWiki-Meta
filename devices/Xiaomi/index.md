@@ -3,6 +3,7 @@
 ## Xiaomi Watch
 | [Xiaomi Watch 5](/ProductWiki/devices/Xiaomi/Watch/XiaomiWatch5) |
 | ----- |
+| [Xiaomi Watch S5 41mm](/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS5-41) |
 | [Xiaomi Watch S5 46mm](/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS5) |
 | [Xiaomi Watch S4 41mm](/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS4-41) |
 | [Xiaomi Watch S4](/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS4) |

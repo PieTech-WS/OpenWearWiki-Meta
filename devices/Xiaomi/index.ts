@@ -5,8 +5,11 @@ export default [
         items: [{
             text: 'Xiaomi Watch 5',
             link: '/ProductWiki/devices/Xiaomi/Watch/XiaomiWatch5'
+                }, {
+            text: 'Xiaomi Watch S5 41mm',
+            link: '/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS5-41'
         }, {
-            text: 'Xiaomi Watch S5',
+            text: 'Xiaomi Watch S5 46mm',
             link: '/ProductWiki/devices/Xiaomi/Watch/XiaomiWatchS5'
         }, {
             text: 'Xiaomi Watch S4 41mm',

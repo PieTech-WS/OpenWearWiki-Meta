@@ -111,6 +111,8 @@
 | miwear.watch.o63w    | Xiaomi Watch S4 41mm海外版                                                                       |
 | miwear.watch.p62    | Xiaomi Watch S5 46mm                                                                      |
 | miwear.watch.p62lte | Xiaomi Watch S5 eSIM 46mm |
+| miwear.watch.q63   | Xiaomi Watch S5 41mm                                                                      |
+| miwear.watch.q63 | Xiaomi Watch S5 透明版|
 | miwear.watch.p62g | Xiaomi Watch S5 46mm海外版 |
 | miwear.watch.p65 | REDMI Watch 6 |
 | miwear.watch.p65gl | REDMI Watch 6 海外版 |
