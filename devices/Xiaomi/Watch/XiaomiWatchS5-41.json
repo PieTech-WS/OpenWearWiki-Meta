@@ -1,0 +1,65 @@
+{
+  "SchemaVersion": 1,
+  "Type": "product_wiki",
+  "name": {
+    "zh_CN": "Xiaomi Watch S5 41mm",
+    "en_US": "Xiaomi Watch S5 41mm"
+  },
+  "actions": [
+    {
+      "title": "前往米坛社区板块",
+      "description": "查看设备讨论、资源分享和使用反馈。",
+      "href": "https://www.bandbbs.cn/forums/245/"
+    }
+  ],
+  "sku": [
+    {
+      "sku_name": "41 mm",
+      "model": "M2606W1",
+      "images": [
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/D9BD99D583D11ACDB1AC0F9C23D49657_1789435856641.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/045F82D4E323E08FF70393E449F1610B_1789435862193.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/7B8A6558C6B29C83801AAD951CDC0AF3_1789435851271.png",
+        "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/AD49023F1F1A3401B8708459ED239447_1789435866590.png"
+        ],
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.32\" AMOLED"],
+        "battery": "590mAh",
+        "connectivity": "双模蓝牙 BLE/BT 5.4",
+        "wifi_support": "是",
+        "wifi_detail": "2.4GHz",
+        "codename": "miwear.watch.q63",
+        "atm": "5ATM"
+      }
+    },
+    {
+      "sku_name": "透明版",
+      "model": "M2607W1",
+      "images": [
+      "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003276.88276666.png"
+      ],
+      "setAsNormalSKU": false,
+      "specs": {
+        "os": {
+          "ref": "xiaomi/xiaomihyperos_vela",
+          "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
+        },
+        "platform": "bestechnic/bes2700bp",
+        "storage": ["32MB RAM", "4GB ROM"],
+        "display": ["466*466 PX", "1.32\" AMOLED"],
+        "battery": "590mAh",
+        "connectivity": "双模蓝牙 BLE/BT 5.4",
+        "wifi_support": "是",
+        "wifi_detail": "2.4GHz",
+        "codename": "miwear.watch.q63",
+        "atm": "5ATM"
+    }
+    }
+  ]
+}
