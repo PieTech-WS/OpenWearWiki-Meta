@@ -27,7 +27,7 @@
           "ref": "xiaomi/xiaomihyperos_vela",
           "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
         },
-        "platform": "bestechnic/bes2700bp",
+        "platform": "bestechnic/bes2800bp",
         "storage": ["32MB RAM", "4GB ROM"],
         "display": ["466*466 PX", "1.32\" AMOLED"],
         "battery": "590mAh",
@@ -42,7 +42,7 @@
       "sku_name": "透明版",
       "model": "M2607W1",
       "images": [
-      "https://cdn.cnbj0.fds.api.mi-img.com/b2c-shopapi-pms/pms_1774003276.88276666.png"
+      "https://cdn.cnbj1.fds.api.mi-img.com/nr-upload-outer/1368F3FEE45B1BD4CEB1EBCD56D55383_1790163530421.png"
       ],
       "setAsNormalSKU": false,
       "specs": {
@@ -50,7 +50,7 @@
           "ref": "xiaomi/xiaomihyperos_vela",
           "display": ["Xiaomi HyperOS", "(Vela 5.0)"]
         },
-        "platform": "bestechnic/bes2700bp",
+        "platform": "bestechnic/bes2800bp",
         "storage": ["32MB RAM", "4GB ROM"],
         "display": ["466*466 PX", "1.32\" AMOLED"],
         "battery": "590mAh",
