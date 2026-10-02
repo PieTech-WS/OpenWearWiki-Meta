@@ -85,6 +85,20 @@
         "storage": ["16MB PSRAM", "512MB ROM"]
 
       }
+    },
+    {
+      "sku_name": "蚂蚁阿福定制款",
+      "model": "M2456B1",
+      "images": [
+        "./resource/o66lj_耀影金版_4.png"
+      ],
+      "imagesText": "./resource/o66_标准版_1.png",
+      "setAsNormalSKU": false,
+      "specs": {
+        "codename": "miwear.watch.o66o",
+        "storage": ["16MB PSRAM", "512MB ROM"]
+
+      }
     }
   ]
 }

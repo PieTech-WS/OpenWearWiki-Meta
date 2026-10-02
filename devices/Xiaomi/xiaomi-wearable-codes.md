@@ -57,6 +57,7 @@
 | miwear.watch.o66nfc         | Xiaomi手环10 NFC版                          |
 | miwear.watch.o66tc          | Xiaomi手环10 陶瓷版                           |
 | miwear.watch.o66lj          | Xiaomi手环10 耀影金                                 |
+| miwear.watch.o66o          | Xiaomi手环10 蚂蚁阿福定制款                                 |
 | miwear.watch.o66gl          | Xiaomi手环10 (海外版)                         |
 | miwear.watch.o66gln         | Xiaomi手环10 NFC版 (海外版)                    |
 | miwear.watch.o66glt         | Xiaomi手环10 陶瓷版（海外版）                        |

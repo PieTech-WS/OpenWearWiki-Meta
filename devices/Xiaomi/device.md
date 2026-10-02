@@ -9,6 +9,7 @@
 | 小米手环 9 Pro       | n67      | Xiaomi Smart Band 9 Pro   | 336\*480 | 160     | 2.1 | 48   | 64MB     |
 | 小米手环 10          | o66      | Xiaomi Smart Band 10      | 212\*520 | 106     | 2   | 104  |          |
 | 小米手环 10 NFC      | o66nfc   | Xiaomi Smart Band 10      | 212\*520 | 106     | 2   | 104  |          |
+| 小米手环 10 蚂蚁阿福定制款      | o66o   | Xiaomi Smart Band 10 NFC     | 212\*520 | 106     | 2   | 104  |          |
 | 小米手环 10 Pro      | p67cn    | Xiaomi Smart Band 10 Pro  | 336\*480 | 160     | 2.1 | 48   |          |
 | 小米手环 10 Pro 陶瓷 | p67tc    | Xiaomi Smart Band 10 Pro  | 336\*480 | 160     | 2.1 | 48   |          |
 | 小米手环 11          | q66      | Xiaomi Smart Band 11      | 212\*520 | 106     | 2   | 104  |          |

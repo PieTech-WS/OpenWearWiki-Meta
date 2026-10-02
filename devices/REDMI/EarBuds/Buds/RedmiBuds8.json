@@ -70,6 +70,33 @@
         "dual_device": "支持 双设备连接",
         "ip_rating": "IP54"
       }
-    }
+    },
+    {
+       "sku_name": "Buds 8S",
+       "model": "M2535E1",
+       "images": [
+        "resource/01665B828A923064A7575E7B4B3DBAB3.png",
+        "resource/FD7CC23167EC8FCAE770558E24C9D17D.png",
+        "resource/EEA1BCB798B261918F38EEFBB86E40E5.png"
+     ],
+        "setAsNormalSKU": false,
+        "specs": {
+        "codename": "redmi.buds.8s",
+        "type": "入耳式",
+        "driver": "圈瓷同轴三单元（11mm镀钛动圈 + 双6.7mm压电陶瓷）双DAC驱动",
+        "bluetooth": "Bluetooth 5.4",
+        "anc": "小米深空降噪3.0 55dB/5kHz宽频主动降噪 平均28dB",
+        "battery": "降噪关 8.5h/35h 降噪开 4.5h/16h",
+        "battery_capacity": "耳机 54mAh / 充电盒 480mAh",
+        "codec": "SBC / AAC / LC3 / LHDC 5.0 / MIHC",
+        "dual_device": "支持 双设备连接",
+        "ip_rating": "IP54",
+        "weight": "单耳 5.3g / 整机 47g",
+        "frequency_response": "20Hz-40kHz",
+        "mic": "3麦克风阵列 AI通话降噪 抗风噪12m/s",
+        "charging": "Type-C 快充5分钟使用2小时",
+        "extra": "Dolby Audio / 独立空间音频 / 六轴陀螺仪 / 智能查找 / 3档通透模式 / 滑动调节音量"
+  }
+}
   ]
 }
